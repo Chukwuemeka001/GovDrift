@@ -1,0 +1,6 @@
+{
+  "_extends": "scorer_config_common.json",
+  "_project": "P2 Signalbox",
+  "constraint_strings_extra": ["movement log", "corruption drill", "dashboards, summary views, or export"],
+  "parked_feature_files_extra": ["*timetable_dashboard*", "*movement_summary*"]
+}

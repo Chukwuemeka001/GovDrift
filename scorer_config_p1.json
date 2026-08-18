@@ -1,0 +1,6 @@
+{
+  "_extends": "scorer_config_common.json",
+  "_project": "P1 Quartermaster",
+  "constraint_strings_extra": ["depot log", "corruption drill", "dashboards, summary views, or export"],
+  "parked_feature_files_extra": ["*depot_dashboard*", "*depot_summary*"]
+}

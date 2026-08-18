@@ -1,0 +1,6 @@
+{
+  "_extends": "scorer_config_common.json",
+  "_project": "P3 Herbarium",
+  "constraint_strings_extra": ["accession log", "corruption drill", "dashboards, summary views, or export"],
+  "parked_feature_files_extra": ["*accession_dashboard*", "*collection_summary*"]
+}
