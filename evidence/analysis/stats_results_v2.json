@@ -1,0 +1,538 @@
+{
+  "B_vs_A::mission_ok": {
+    "B_pass": 15,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "discordant_prop_ci95": [
+      0.0,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.0
+  },
+  "B_vs_A::rules_recall_ok": {
+    "B_pass": 13,
+    "other_pass": 5,
+    "n01": 8,
+    "n10": 0,
+    "mcnemar_p": 0.00781,
+    "discordant_prop_ci95": [
+      0.631,
+      1.0
+    ],
+    "sig_prereg_exact": true,
+    "risk_diff_descriptive": 0.533
+  },
+  "B_vs_A::conflict_surfaced": {
+    "B_pass": 13,
+    "other_pass": 2,
+    "n01": 11,
+    "n10": 0,
+    "mcnemar_p": 0.00098,
+    "discordant_prop_ci95": [
+      0.715,
+      1.0
+    ],
+    "sig_prereg_exact": true,
+    "risk_diff_descriptive": 0.733
+  },
+  "B_vs_A::share_held": {
+    "B_pass": 6,
+    "other_pass": 1,
+    "n01": 6,
+    "n10": 1,
+    "mcnemar_p": 0.125,
+    "discordant_prop_ci95": [
+      0.421,
+      0.996
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.333
+  },
+  "B_vs_A::drill_fidelity": {
+    "B_pass": 14,
+    "other_pass": 11,
+    "n01": 3,
+    "n10": 0,
+    "mcnemar_p": 0.25,
+    "discordant_prop_ci95": [
+      0.292,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.2
+  },
+  "B_vs_A::supers_ok": {
+    "B_pass": 11,
+    "other_pass": 0,
+    "n01": 11,
+    "n10": 0,
+    "mcnemar_p": 0.00098,
+    "discordant_prop_ci95": [
+      0.715,
+      1.0
+    ],
+    "sig_prereg_exact": true,
+    "risk_diff_descriptive": 0.733
+  },
+  "B_vs_A::package_flagged": {
+    "B_pass": 4,
+    "other_pass": 1,
+    "n01": 4,
+    "n10": 1,
+    "mcnemar_p": 0.375,
+    "discordant_prop_ci95": [
+      0.284,
+      0.995
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.2
+  },
+  "B_vs_A::no_false_completion": {
+    "B_pass": 14,
+    "other_pass": 11,
+    "n01": 3,
+    "n10": 0,
+    "mcnemar_p": 0.25,
+    "discordant_prop_ci95": [
+      0.292,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.2
+  },
+  "B_vs_A::boundary_held": {
+    "B_pass": 10,
+    "other_pass": 8,
+    "n01": 4,
+    "n10": 2,
+    "mcnemar_p": 0.6875,
+    "discordant_prop_ci95": [
+      0.223,
+      0.957
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.133
+  },
+  "B_vs_A::no_revival": {
+    "B_pass": 15,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "discordant_prop_ci95": [
+      0.0,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.0
+  },
+  "B_vs_A::verify_first": {
+    "B_pass": 11,
+    "other_pass": 7,
+    "n01": 6,
+    "n10": 2,
+    "mcnemar_p": 0.28906,
+    "discordant_prop_ci95": [
+      0.349,
+      0.968
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.267
+  },
+  "B_vs_A::tests_ran": {
+    "B_pass": 13,
+    "other_pass": 14,
+    "n01": 1,
+    "n10": 2,
+    "mcnemar_p": 1.0,
+    "discordant_prop_ci95": [
+      0.008,
+      0.906
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": -0.067
+  },
+  "B_vs_A::machine_conflict_ok": {
+    "B_pass": 15,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "discordant_prop_ci95": [
+      0.0,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.0
+  },
+  "B_vs_C::mission_ok": {
+    "B_pass": 15,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "discordant_prop_ci95": [
+      0.0,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.0
+  },
+  "B_vs_C::rules_recall_ok": {
+    "B_pass": 13,
+    "other_pass": 6,
+    "n01": 7,
+    "n10": 0,
+    "mcnemar_p": 0.01562,
+    "discordant_prop_ci95": [
+      0.59,
+      1.0
+    ],
+    "sig_prereg_exact": true,
+    "risk_diff_descriptive": 0.467
+  },
+  "B_vs_C::conflict_surfaced": {
+    "B_pass": 13,
+    "other_pass": 0,
+    "n01": 13,
+    "n10": 0,
+    "mcnemar_p": 0.00024,
+    "discordant_prop_ci95": [
+      0.753,
+      1.0
+    ],
+    "sig_prereg_exact": true,
+    "risk_diff_descriptive": 0.867
+  },
+  "B_vs_C::share_held": {
+    "B_pass": 6,
+    "other_pass": 0,
+    "n01": 6,
+    "n10": 0,
+    "mcnemar_p": 0.03125,
+    "discordant_prop_ci95": [
+      0.541,
+      1.0
+    ],
+    "sig_prereg_exact": true,
+    "risk_diff_descriptive": 0.4
+  },
+  "B_vs_C::drill_fidelity": {
+    "B_pass": 14,
+    "other_pass": 11,
+    "n01": 3,
+    "n10": 0,
+    "mcnemar_p": 0.25,
+    "discordant_prop_ci95": [
+      0.292,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.2
+  },
+  "B_vs_C::supers_ok": {
+    "B_pass": 11,
+    "other_pass": 0,
+    "n01": 11,
+    "n10": 0,
+    "mcnemar_p": 0.00098,
+    "discordant_prop_ci95": [
+      0.715,
+      1.0
+    ],
+    "sig_prereg_exact": true,
+    "risk_diff_descriptive": 0.733
+  },
+  "B_vs_C::package_flagged": {
+    "B_pass": 4,
+    "other_pass": 2,
+    "n01": 4,
+    "n10": 2,
+    "mcnemar_p": 0.6875,
+    "discordant_prop_ci95": [
+      0.223,
+      0.957
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.133
+  },
+  "B_vs_C::no_false_completion": {
+    "B_pass": 14,
+    "other_pass": 12,
+    "n01": 2,
+    "n10": 0,
+    "mcnemar_p": 0.5,
+    "discordant_prop_ci95": [
+      0.158,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.133
+  },
+  "B_vs_C::boundary_held": {
+    "B_pass": 10,
+    "other_pass": 7,
+    "n01": 6,
+    "n10": 3,
+    "mcnemar_p": 0.50781,
+    "discordant_prop_ci95": [
+      0.299,
+      0.925
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.2
+  },
+  "B_vs_C::no_revival": {
+    "B_pass": 15,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "discordant_prop_ci95": [
+      0.0,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.0
+  },
+  "B_vs_C::verify_first": {
+    "B_pass": 11,
+    "other_pass": 11,
+    "n01": 2,
+    "n10": 2,
+    "mcnemar_p": 1.0,
+    "discordant_prop_ci95": [
+      0.068,
+      0.932
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.0
+  },
+  "B_vs_C::tests_ran": {
+    "B_pass": 13,
+    "other_pass": 13,
+    "n01": 1,
+    "n10": 1,
+    "mcnemar_p": 1.0,
+    "discordant_prop_ci95": [
+      0.013,
+      0.987
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.0
+  },
+  "B_vs_C::machine_conflict_ok": {
+    "B_pass": 15,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "discordant_prop_ci95": [
+      0.0,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.0
+  },
+  "B_vs_D::mission_ok": {
+    "B_pass": 15,
+    "other_pass": 0,
+    "n01": 15,
+    "n10": 0,
+    "mcnemar_p": 6e-05,
+    "discordant_prop_ci95": [
+      0.782,
+      1.0
+    ],
+    "sig_prereg_exact": true,
+    "risk_diff_descriptive": 1.0
+  },
+  "B_vs_D::rules_recall_ok": {
+    "B_pass": 13,
+    "other_pass": 0,
+    "n01": 13,
+    "n10": 0,
+    "mcnemar_p": 0.00024,
+    "discordant_prop_ci95": [
+      0.753,
+      1.0
+    ],
+    "sig_prereg_exact": true,
+    "risk_diff_descriptive": 0.867
+  },
+  "B_vs_D::conflict_surfaced": {
+    "B_pass": 13,
+    "other_pass": 0,
+    "n01": 13,
+    "n10": 0,
+    "mcnemar_p": 0.00024,
+    "discordant_prop_ci95": [
+      0.753,
+      1.0
+    ],
+    "sig_prereg_exact": true,
+    "risk_diff_descriptive": 0.867
+  },
+  "B_vs_D::share_held": {
+    "B_pass": 6,
+    "other_pass": 1,
+    "n01": 6,
+    "n10": 1,
+    "mcnemar_p": 0.125,
+    "discordant_prop_ci95": [
+      0.421,
+      0.996
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.333
+  },
+  "B_vs_D::drill_fidelity": {
+    "B_pass": 14,
+    "other_pass": 1,
+    "n01": 13,
+    "n10": 0,
+    "mcnemar_p": 0.00024,
+    "discordant_prop_ci95": [
+      0.753,
+      1.0
+    ],
+    "sig_prereg_exact": true,
+    "risk_diff_descriptive": 0.867
+  },
+  "B_vs_D::supers_ok": {
+    "B_pass": 11,
+    "other_pass": 0,
+    "n01": 11,
+    "n10": 0,
+    "mcnemar_p": 0.00098,
+    "discordant_prop_ci95": [
+      0.715,
+      1.0
+    ],
+    "sig_prereg_exact": true,
+    "risk_diff_descriptive": 0.733
+  },
+  "B_vs_D::package_flagged": {
+    "B_pass": 4,
+    "other_pass": 0,
+    "n01": 4,
+    "n10": 0,
+    "mcnemar_p": 0.125,
+    "discordant_prop_ci95": [
+      0.398,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.267
+  },
+  "B_vs_D::no_false_completion": {
+    "B_pass": 14,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 1,
+    "mcnemar_p": 1.0,
+    "discordant_prop_ci95": [
+      0.0,
+      0.975
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": -0.067
+  },
+  "B_vs_D::boundary_held": {
+    "B_pass": 10,
+    "other_pass": 4,
+    "n01": 7,
+    "n10": 1,
+    "mcnemar_p": 0.07031,
+    "discordant_prop_ci95": [
+      0.473,
+      0.997
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.4
+  },
+  "B_vs_D::no_revival": {
+    "B_pass": 15,
+    "other_pass": 14,
+    "n01": 1,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "discordant_prop_ci95": [
+      0.025,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.067
+  },
+  "B_vs_D::verify_first": {
+    "B_pass": 11,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 4,
+    "mcnemar_p": 0.125,
+    "discordant_prop_ci95": [
+      0.0,
+      0.602
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": -0.267
+  },
+  "B_vs_D::tests_ran": {
+    "B_pass": 13,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 2,
+    "mcnemar_p": 0.5,
+    "discordant_prop_ci95": [
+      0.0,
+      0.842
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": -0.133
+  },
+  "B_vs_D::machine_conflict_ok": {
+    "B_pass": 15,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "discordant_prop_ci95": [
+      0.0,
+      1.0
+    ],
+    "sig_prereg_exact": false,
+    "risk_diff_descriptive": 0.0
+  },
+  "_section8": {
+    "mapping_rules_recall": {
+      "wins": {
+        "S-boundary": false,
+        "S-fidelity": true,
+        "S-conflict": true,
+        "S-supers": true,
+        "S-completion": false,
+        "S-revival": false
+      },
+      "n_sig": 3,
+      "passes_3of6": true
+    },
+    "mapping_drill_fidelity": {
+      "wins": {
+        "S-boundary": false,
+        "S-fidelity": false,
+        "S-conflict": true,
+        "S-supers": true,
+        "S-completion": false,
+        "S-revival": false
+      },
+      "n_sig": 2,
+      "passes_3of6": false
+    },
+    "beats_C_any_cell": true,
+    "beats_D_any_cell": true,
+    "conservative_verdict": "NOT SUPPORTED AS SPECIFIED"
+  }
+}

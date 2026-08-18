@@ -1,0 +1,53 @@
+{
+  "project": "p3",
+  "phase": "BAND_REACHED",
+  "session_id": "ddfd560b-1cbe-45e9-8587-e4d81a3910e0",
+  "turns_done": [
+    "T1",
+    "T2",
+    "T3",
+    "T4",
+    "T5",
+    "T6",
+    "T7"
+  ],
+  "last_context": 145699,
+  "total_cost_usd": 1.694,
+  "turn_results": {
+    "T1": {
+      "context": 42624,
+      "cost": 0.15114800000000003,
+      "result_head": "## Progress Report\n\n**Herbarium built and tested.** Complete local-only plant-specimen accession pipeline:\n\n### Core Features\n- **CLI**: Single entry point reads specimen fixtures (CSV/JSONL) and taxon registry, processes deterministically\n- **Deterministic accessions**: SHA256 hash of specimen_id + taxon + date produces stable 16-char accession IDs\u2014same specimen always gets same ID, enabling safe"
+    },
+    "T2": {
+      "context": 62555,
+      "cost": 0.22041230000000003,
+      "result_head": "## Progress Report\n\n**Herbarium now has full schema validation, byte-for-byte deterministic output, and curator-gated ingest workflow.** All 25 tests passing.\n\n### Schema Validation\nCreated `schema.py` with strict validation for both registry and specimen records. Invalid JSON/CSV files are preserved byte-for-byte and rejected before any accession or log mutation. Handles both well-formed and mess"
+    },
+    "T3": {
+      "context": 82466,
+      "cost": 0.24833369999999994,
+      "result_head": "## Progress Report\n\n**Herbarium now enforces zero-damage-destruction storage with detection, quarantine, and never-silent-repair.** 39 tests passing (14 new damage detection tests).\n\n### No Automatic Repair\n\nEvery damaged byte is preserved as found. When verification detects damage, the file stays untouched. Quarantine is explicit and logged.\n\n### Damage Detection (3 categories)\n\n1. **Torn writes*"
+    },
+    "T4": {
+      "context": 102564,
+      "cost": 0.3157221,
+      "result_head": "## Progress Report\n\n**Batch ingester added with all-or-nothing validation; concurrent stress test proves accession log consistency under 4-worker load.** 44 tests passing (5 new batch tests).\n\n### Batch Ingester\n\n`BatchIngester` processes multiple specimen files in one command with safety guarantees:\n\n**All-or-nothing validation**: Validates every file before processing any. One bad CSV/JSONL fail"
+    },
+    "T5": {
+      "context": 121437,
+      "cost": 0.32776400000000006,
+      "result_head": "## Progress Report\n\n**Crash recovery hardened: real process termination tests prove torn-write detection and safe resumption.** 51 tests passing (7 new crash recovery tests).\n\n### Real Crash Tests\n\nCreated `test_crash_recovery.py` with **actual process termination**, not simulated:\n- `test_kill_writer_mid_append`: Spawn subprocess writing to log, send SIGKILL mid-append, verify damage detected\n- `"
+    },
+    "T6": {
+      "context": 142502,
+      "cost": 0.4039083,
+      "result_head": "## Progress Report\n\n**Herbarium refactored into clean package layout; backward compatibility verified; 51 tests passing.** Full corruption drill owed before any release consideration.\n\n### Refactored Package Structure\n\nClean separation of concerns with zero behavior change:\n\n```\nherbarium_pkg/\n\u251c\u2500\u2500 core/           # Herbarium, IngestWorkflow, deterministic_json\n\u251c\u2500\u2500 batch/          # BatchIngester\n\u2514"
+    },
+    "T7": {
+      "context": 145699,
+      "cost": 0.026759400000000003,
+      "result_head": "## Status Check: Where We Are & Why\n\n**Overall state**: Herbarium is functionally complete and hardened for internal use, but not production-ready. Core invariants (append-only, determinism, crash recovery, idempotent, no silent repair) are implemented and tested. File format is stable.\n\n**What's shipped**:\n- Core pipeline: reads CSV/JSONL \u2192 deterministic accessions \u2192 append-only log\n- Crash recov"
+    }
+  }
+}

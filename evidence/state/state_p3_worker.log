@@ -1,0 +1,8 @@
+[2026-08-18T18:55:16.134023+00:00] T1: done. context=42624 cost=$0.151 total=$0.15 sid=ddfd560b-1cbe-45e9-8587-e4d81a3910e0
+[2026-08-18T18:57:47.919751+00:00] T2: done. context=62555 cost=$0.220 total=$0.37 sid=ddfd560b-1cbe-45e9-8587-e4d81a3910e0
+[2026-08-18T19:00:16.297851+00:00] T3: done. context=82466 cost=$0.248 total=$0.62 sid=ddfd560b-1cbe-45e9-8587-e4d81a3910e0
+[2026-08-18T19:02:46.134490+00:00] T4: done. context=102564 cost=$0.316 total=$0.94 sid=ddfd560b-1cbe-45e9-8587-e4d81a3910e0
+[2026-08-18T19:05:29.520266+00:00] T5: done. context=121437 cost=$0.328 total=$1.26 sid=ddfd560b-1cbe-45e9-8587-e4d81a3910e0
+[2026-08-18T19:07:12.683917+00:00] T6: done. context=142502 cost=$0.404 total=$1.67 sid=ddfd560b-1cbe-45e9-8587-e4d81a3910e0
+[2026-08-18T19:07:33.161311+00:00] T7: done. context=145699 cost=$0.027 total=$1.69 sid=ddfd560b-1cbe-45e9-8587-e4d81a3910e0
+[2026-08-18T19:07:33.162150+00:00] BAND_REACHED at 145699 after T7 (all mandatory turns done); stopping.

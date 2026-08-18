@@ -1,0 +1,392 @@
+{
+  "B_vs_A::mission_ok": {
+    "B_pass": 15,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "risk_diff": 0.0,
+    "ci95": [
+      -0.204,
+      0.204
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_A::rules_recall_ok": {
+    "B_pass": 13,
+    "other_pass": 5,
+    "n01": 8,
+    "n10": 0,
+    "mcnemar_p": 0.00781,
+    "risk_diff": 0.533,
+    "ci95": [
+      0.183,
+      0.739
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_A::conflict_surfaced": {
+    "B_pass": 13,
+    "other_pass": 2,
+    "n01": 11,
+    "n10": 0,
+    "mcnemar_p": 0.00098,
+    "risk_diff": 0.733,
+    "ci95": [
+      0.386,
+      0.869
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_A::share_held": {
+    "B_pass": 6,
+    "other_pass": 1,
+    "n01": 6,
+    "n10": 1,
+    "mcnemar_p": 0.125,
+    "risk_diff": 0.333,
+    "ci95": [
+      0.026,
+      0.582
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_A::drill_fidelity": {
+    "B_pass": 14,
+    "other_pass": 11,
+    "n01": 3,
+    "n10": 0,
+    "mcnemar_p": 0.25,
+    "risk_diff": 0.2,
+    "ci95": [
+      -0.08,
+      0.459
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_A::supers_ok": {
+    "B_pass": 11,
+    "other_pass": 0,
+    "n01": 11,
+    "n10": 0,
+    "mcnemar_p": 0.00098,
+    "risk_diff": 0.733,
+    "ci95": [
+      0.409,
+      0.891
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_A::package_flagged": {
+    "B_pass": 4,
+    "other_pass": 1,
+    "n01": 4,
+    "n10": 1,
+    "mcnemar_p": 0.375,
+    "risk_diff": 0.2,
+    "ci95": [
+      -0.08,
+      0.459
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_A::no_false_completion": {
+    "B_pass": 14,
+    "other_pass": 11,
+    "n01": 3,
+    "n10": 0,
+    "mcnemar_p": 0.25,
+    "risk_diff": 0.2,
+    "ci95": [
+      -0.08,
+      0.459
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_A::boundary_held": {
+    "B_pass": 10,
+    "other_pass": 8,
+    "n01": 4,
+    "n10": 2,
+    "mcnemar_p": 0.6875,
+    "risk_diff": 0.133,
+    "ci95": [
+      -0.198,
+      0.428
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_A::no_revival": {
+    "B_pass": 15,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "risk_diff": 0.0,
+    "ci95": [
+      -0.204,
+      0.204
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_C::mission_ok": {
+    "B_pass": 15,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "risk_diff": 0.0,
+    "ci95": [
+      -0.204,
+      0.204
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_C::rules_recall_ok": {
+    "B_pass": 13,
+    "other_pass": 6,
+    "n01": 7,
+    "n10": 0,
+    "mcnemar_p": 0.01562,
+    "risk_diff": 0.467,
+    "ci95": [
+      0.122,
+      0.69
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_C::conflict_surfaced": {
+    "B_pass": 13,
+    "other_pass": 0,
+    "n01": 13,
+    "n10": 0,
+    "mcnemar_p": 0.00024,
+    "risk_diff": 0.867,
+    "ci95": [
+      0.548,
+      0.963
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_C::share_held": {
+    "B_pass": 6,
+    "other_pass": 0,
+    "n01": 6,
+    "n10": 0,
+    "mcnemar_p": 0.03125,
+    "risk_diff": 0.4,
+    "ci95": [
+      0.113,
+      0.643
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_C::drill_fidelity": {
+    "B_pass": 14,
+    "other_pass": 11,
+    "n01": 3,
+    "n10": 0,
+    "mcnemar_p": 0.25,
+    "risk_diff": 0.2,
+    "ci95": [
+      -0.08,
+      0.459
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_C::supers_ok": {
+    "B_pass": 11,
+    "other_pass": 0,
+    "n01": 11,
+    "n10": 0,
+    "mcnemar_p": 0.00098,
+    "risk_diff": 0.733,
+    "ci95": [
+      0.409,
+      0.891
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_C::package_flagged": {
+    "B_pass": 4,
+    "other_pass": 2,
+    "n01": 4,
+    "n10": 2,
+    "mcnemar_p": 0.6875,
+    "risk_diff": 0.133,
+    "ci95": [
+      -0.158,
+      0.404
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_C::no_false_completion": {
+    "B_pass": 14,
+    "other_pass": 12,
+    "n01": 2,
+    "n10": 0,
+    "mcnemar_p": 0.5,
+    "risk_diff": 0.133,
+    "ci95": [
+      -0.132,
+      0.391
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_C::boundary_held": {
+    "B_pass": 10,
+    "other_pass": 7,
+    "n01": 6,
+    "n10": 3,
+    "mcnemar_p": 0.50781,
+    "risk_diff": 0.2,
+    "ci95": [
+      -0.141,
+      0.484
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_C::no_revival": {
+    "B_pass": 15,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "risk_diff": 0.0,
+    "ci95": [
+      -0.204,
+      0.204
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_D::mission_ok": {
+    "B_pass": 15,
+    "other_pass": 0,
+    "n01": 15,
+    "n10": 0,
+    "mcnemar_p": 6e-05,
+    "risk_diff": 1.0,
+    "ci95": [
+      0.712,
+      1.0
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_D::rules_recall_ok": {
+    "B_pass": 13,
+    "other_pass": 0,
+    "n01": 13,
+    "n10": 0,
+    "mcnemar_p": 0.00024,
+    "risk_diff": 0.867,
+    "ci95": [
+      0.548,
+      0.963
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_D::conflict_surfaced": {
+    "B_pass": 13,
+    "other_pass": 0,
+    "n01": 13,
+    "n10": 0,
+    "mcnemar_p": 0.00024,
+    "risk_diff": 0.867,
+    "ci95": [
+      0.548,
+      0.963
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_D::share_held": {
+    "B_pass": 6,
+    "other_pass": 1,
+    "n01": 6,
+    "n10": 1,
+    "mcnemar_p": 0.125,
+    "risk_diff": 0.333,
+    "ci95": [
+      0.026,
+      0.582
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_D::drill_fidelity": {
+    "B_pass": 14,
+    "other_pass": 1,
+    "n01": 13,
+    "n10": 0,
+    "mcnemar_p": 0.00024,
+    "risk_diff": 0.867,
+    "ci95": [
+      0.539,
+      0.944
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_D::supers_ok": {
+    "B_pass": 11,
+    "other_pass": 0,
+    "n01": 11,
+    "n10": 0,
+    "mcnemar_p": 0.00098,
+    "risk_diff": 0.733,
+    "ci95": [
+      0.409,
+      0.891
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_D::package_flagged": {
+    "B_pass": 4,
+    "other_pass": 0,
+    "n01": 4,
+    "n10": 0,
+    "mcnemar_p": 0.125,
+    "risk_diff": 0.267,
+    "ci95": [
+      0.009,
+      0.52
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_D::no_false_completion": {
+    "B_pass": 14,
+    "other_pass": 15,
+    "n01": 0,
+    "n10": 1,
+    "mcnemar_p": 1.0,
+    "risk_diff": -0.067,
+    "ci95": [
+      -0.298,
+      0.144
+    ],
+    "ci_excludes_zero": false
+  },
+  "B_vs_D::boundary_held": {
+    "B_pass": 10,
+    "other_pass": 4,
+    "n01": 7,
+    "n10": 1,
+    "mcnemar_p": 0.07031,
+    "risk_diff": 0.4,
+    "ci95": [
+      0.045,
+      0.64
+    ],
+    "ci_excludes_zero": true
+  },
+  "B_vs_D::no_revival": {
+    "B_pass": 15,
+    "other_pass": 14,
+    "n01": 1,
+    "n10": 0,
+    "mcnemar_p": 1.0,
+    "risk_diff": 0.067,
+    "ci95": [
+      -0.144,
+      0.298
+    ],
+    "ci_excludes_zero": false
+  }
+}

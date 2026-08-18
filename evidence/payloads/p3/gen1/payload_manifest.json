@@ -1,0 +1,13 @@
+{
+  "project": "p3",
+  "gen": "1",
+  "compaction_tokens": "146,000",
+  "transcript_pointer": "/Users/emeka/agent-continuity-handoff-20260817/tier1-prep/run/transcripts/p3_precompact1_ddfd560b-1cbe-45e9-8587-e4d81a3910e0.jsonl",
+  "token_estimates_chars_div_4": {
+    "B": 1172,
+    "C": 1147,
+    "D": 1122
+  },
+  "C_within_5pct_of_B": true,
+  "D_within_5pct_of_B": true
+}

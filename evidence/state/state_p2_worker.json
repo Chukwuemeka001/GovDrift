@@ -1,0 +1,53 @@
+{
+  "project": "p2",
+  "phase": "BAND_REACHED",
+  "session_id": "a54c0b73-e004-4de2-baf2-43e43633f03f",
+  "turns_done": [
+    "T1",
+    "T2",
+    "T3",
+    "T4",
+    "T5",
+    "T6",
+    "T7"
+  ],
+  "last_context": 147104,
+  "total_cost_usd": 1.9213,
+  "turn_results": {
+    "T1": {
+      "context": 53714,
+      "cost": 0.24357599999999996,
+      "result_head": "## Progress Report\n\n**Signalbox** is complete and tested. A deterministic model-railway dispatch planner that reads fixtures, simulates train movement, logs every event to append-only JSONL, and resumes safely after interruption.\n\n### What Works\n\n**CLI (3 modes)**\n- `--mode dispatch`: fresh run, loads tracks and requests, outputs timetable\n- `--mode resume`: skips completed trains, finishes in-tra"
+    },
+    "T2": {
+      "context": 77361,
+      "cost": 0.29373939999999993,
+      "result_head": "## Progress Report\n\n**Enhancements added:**\n\n**1. Schema Validation (Fail-Safe)**\n- `validate_tracks_schema()` and `validate_requests_schema()` check structure before ANY file mutations\n- Validates all required fields, types, and value ranges (positive lengths/speeds, non-empty arrays)\n- Preserves fixture files byte-for-byte on error; raises ValueError with descriptive messages before log is touch"
+    },
+    "T3": {
+      "context": 90673,
+      "cost": 0.1972252,
+      "result_head": "## Progress Report\n\n**Log verification added: no silent repair, exact damage preservation.**\n\n**New Feature: `--mode verify`**\n- Detects corruption without fixing: truncation, edits, torn writes all reported with line numbers and raw content preserved\n- 9 new tests (TestLogVerifier) covering:\n  - Valid log acceptance\n  - Invalid JSON detection (unterminated strings from crash)\n  - Missing required"
+    },
+    "T4": {
+      "context": 121822,
+      "cost": 0.5959428000000001,
+      "result_head": "## Progress Report\n\n**Batch dispatcher and multi-process safety verified.**\n\n**Batch Dispatch Mode**\n- `--batch file1.json file2.json ...`: process multiple request files in deterministic alphabetical order\n- **All-or-nothing validation**: validates ALL request files before processing ANY trains; one bad input blocks entire batch\n- Example: `python3 signalbox.py --batch requests_batch_1.json reque"
+    },
+    "T5": {
+      "context": 128830,
+      "cost": 0.11222270000000001,
+      "result_head": "## Progress Report\n\n**Real crash recovery hardened: process kills, torn writes, atomicity verified.**\n\n**Crash Recovery Tests (Real Process Kills)**\nThree new tests use actual signal-based process termination, not simulated hooks:\n\n1. **Kill Mid-Append**: Spawn dispatcher writing 20 slow blocks (40 movements), kill with SIGKILL mid-append. Verify:\n   - Process dies: \u2713\n   - Resume dispatcher: conti"
+    },
+    "T6": {
+      "context": 146241,
+      "cost": 0.4576904,
+      "result_head": "## Progress Report\n\n**Refactored into clean package; backward compatible; NOT release-ready (corruption drill owed).**\n\n**Refactoring: Code Organization**\n- Extracted monolithic `signalbox.py` (595 lines) into 8-module package\n- `signalbox.py` now 20-line wrapper; redirects to `signalbox/cli.py`\n- All public APIs re-exported via `signalbox/__init__.py` (backward compatible)\n- No behavior changes; "
+    },
+    "T7": {
+      "context": 147104,
+      "cost": 0.0209653,
+      "result_head": "## Status Check\n\n**Where We Are**\n\nSignalbox is feature-complete and hardened for crash recovery. It can:\n- Read tracks and train requests, dispatch deterministically\n- Resume safely after any process kill (real SIGKILL tests pass)\n- Detect and report log corruption without auto-repair\n- Handle batch dispatch with all-or-nothing validation\n- Run 52 unit tests + 3 real crash-recovery tests, all pas"
+    }
+  }
+}

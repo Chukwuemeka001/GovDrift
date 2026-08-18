@@ -1,0 +1,12 @@
+[2026-08-18T13:29:57.251009+00:00] T1: done. context=597249 cost=$0.195 total=$0.20 sid=37ce6f87-3d07-438c-9118-1a2dbf2bb357
+[2026-08-18T13:29:57.252339+00:00] BAND_REACHED at 597249 after T1; stopping.
+[deviation-log] 2026-08-18: driver context-metric bug (aggregate usage vs last-message usage) found after worker T1, fixed before any fork/arm existed. No probe or arm affected; fairness impact: none. Recorded for DEVIATIONS.md at results push.
+[2026-08-18T13:34:10.060579+00:00] T2: done. context=67106 cost=$0.227 total=$0.42 sid=37ce6f87-3d07-438c-9118-1a2dbf2bb357
+[2026-08-18T13:36:49.400168+00:00] T3: done. context=84218 cost=$0.334 total=$0.76 sid=37ce6f87-3d07-438c-9118-1a2dbf2bb357
+[2026-08-18T13:41:00.506505+00:00] T4: done. context=108258 cost=$0.487 total=$1.24 sid=37ce6f87-3d07-438c-9118-1a2dbf2bb357
+[2026-08-18T13:41:00.507974+00:00] BAND_REACHED at 108258 after T4; stopping.
+[deviation-log] 2026-08-18: driver band-stop fired after T4, before governing events G3/G4/G5 (T5-T7) were delivered. Caught BEFORE compaction/fork; driver fixed so T-turns are mandatory and only H-turns are band fillers. Context may exceed 150k by T7 — within the pre-registered extend-once-to-200k provision if so. Fairness impact: none (no arms existed). For public DEVIATIONS.md.
+[2026-08-18T13:44:03.620560+00:00] T5: done. context=123002 cost=$0.243 total=$1.49 sid=37ce6f87-3d07-438c-9118-1a2dbf2bb357
+[2026-08-18T13:47:18.670470+00:00] T6: done. context=142239 cost=$0.474 total=$1.96 sid=37ce6f87-3d07-438c-9118-1a2dbf2bb357
+[2026-08-18T13:47:40.958370+00:00] T7: done. context=143391 cost=$0.022 total=$1.98 sid=37ce6f87-3d07-438c-9118-1a2dbf2bb357
+[2026-08-18T13:47:40.959144+00:00] BAND_REACHED at 143391 after T7 (all mandatory turns done); stopping.
