@@ -1,0 +1,1396 @@
+{
+  "per_lineage": {
+    "p1/A-s1": {
+      "out": 205269,
+      "inp": 3176,
+      "cc": 1044481,
+      "cr": 33453135,
+      "turns": 389,
+      "tools": 164,
+      "summaries": [
+        2338,
+        2926
+      ],
+      "summary_chars": [
+        9353,
+        11704
+      ],
+      "post_fork_lines": 847,
+      "total_lines": 1419,
+      "cost": 2.9107
+    },
+    "p1/A-s2": {
+      "out": 113106,
+      "inp": 1878,
+      "cc": 727541,
+      "cr": 14386378,
+      "turns": 226,
+      "tools": 87,
+      "summaries": [
+        2338,
+        2360
+      ],
+      "summary_chars": [
+        9353,
+        9443
+      ],
+      "post_fork_lines": 544,
+      "total_lines": 1116,
+      "cost": 1.6013
+    },
+    "p1/A-s3": {
+      "out": 208809,
+      "inp": 3286,
+      "cc": 550160,
+      "cr": 35574448,
+      "turns": 402,
+      "tools": 170,
+      "summaries": [
+        2338,
+        3367
+      ],
+      "summary_chars": [
+        9353,
+        13469
+      ],
+      "post_fork_lines": 880,
+      "total_lines": 1452,
+      "cost": 2.6499
+    },
+    "p1/A-s4": {
+      "out": 188447,
+      "inp": 2786,
+      "cc": 608329,
+      "cr": 29207654,
+      "turns": 340,
+      "tools": 141,
+      "summaries": [
+        2338,
+        3275
+      ],
+      "summary_chars": [
+        9353,
+        13103
+      ],
+      "post_fork_lines": 766,
+      "total_lines": 1338,
+      "cost": 2.3536
+    },
+    "p1/A-s5": {
+      "out": 218456,
+      "inp": 2938,
+      "cc": 606413,
+      "cr": 33061635,
+      "turns": 359,
+      "tools": 152,
+      "summaries": [
+        2338,
+        4048
+      ],
+      "summary_chars": [
+        9353,
+        16192
+      ],
+      "post_fork_lines": 813,
+      "total_lines": 1385,
+      "cost": 2.637
+    },
+    "p1/B-s1": {
+      "out": 140703,
+      "inp": 1984,
+      "cc": 590621,
+      "cr": 17771737,
+      "turns": 238,
+      "tools": 92,
+      "summaries": [
+        2338,
+        2870
+      ],
+      "summary_chars": [
+        9353,
+        11481
+      ],
+      "post_fork_lines": 586,
+      "total_lines": 1158,
+      "cost": 1.7591
+    },
+    "p1/B-s2": {
+      "out": 97585,
+      "inp": 1646,
+      "cc": 329009,
+      "cr": 13550485,
+      "turns": 197,
+      "tools": 73,
+      "summaries": [
+        2338,
+        3016
+      ],
+      "summary_chars": [
+        9353,
+        12067
+      ],
+      "post_fork_lines": 487,
+      "total_lines": 1059,
+      "cost": 1.2208
+    },
+    "p1/B-s3": {
+      "out": 117389,
+      "inp": 1738,
+      "cc": 361219,
+      "cr": 13445514,
+      "turns": 208,
+      "tools": 73,
+      "summaries": [
+        2338,
+        2361
+      ],
+      "summary_chars": [
+        9353,
+        9446
+      ],
+      "post_fork_lines": 513,
+      "total_lines": 1085,
+      "cost": 1.2331
+    },
+    "p1/B-s4": {
+      "out": 194741,
+      "inp": 2790,
+      "cc": 612036,
+      "cr": 29219243,
+      "turns": 340,
+      "tools": 137,
+      "summaries": [
+        2338,
+        2788
+      ],
+      "summary_chars": [
+        9353,
+        11155
+      ],
+      "post_fork_lines": 767,
+      "total_lines": 1339,
+      "cost": 2.3106
+    },
+    "p1/B-s5": {
+      "out": 113350,
+      "inp": 1840,
+      "cc": 360582,
+      "cr": 15533708,
+      "turns": 222,
+      "tools": 88,
+      "summaries": [
+        2338,
+        2906
+      ],
+      "summary_chars": [
+        9353,
+        11624
+      ],
+      "post_fork_lines": 534,
+      "total_lines": 1106,
+      "cost": 1.3806
+    },
+    "p1/C-s1": {
+      "out": 172805,
+      "inp": 3230,
+      "cc": 563968,
+      "cr": 32226472,
+      "turns": 396,
+      "tools": 172,
+      "summaries": [
+        2338,
+        2839
+      ],
+      "summary_chars": [
+        9353,
+        11356
+      ],
+      "post_fork_lines": 866,
+      "total_lines": 1438,
+      "cost": 2.4963
+    },
+    "p1/C-s2": {
+      "out": 128406,
+      "inp": 1814,
+      "cc": 473674,
+      "cr": 14942031,
+      "turns": 217,
+      "tools": 82,
+      "summaries": [
+        2338,
+        2584
+      ],
+      "summary_chars": [
+        9353,
+        10336
+      ],
+      "post_fork_lines": 551,
+      "total_lines": 1123,
+      "cost": 1.4316
+    },
+    "p1/C-s3": {
+      "out": 235486,
+      "inp": 3936,
+      "cc": 699328,
+      "cr": 45586802,
+      "turns": 484,
+      "tools": 214,
+      "summaries": [
+        2338,
+        3666
+      ],
+      "summary_chars": [
+        9353,
+        14665
+      ],
+      "post_fork_lines": 1041,
+      "total_lines": 1613,
+      "cost": 3.3783
+    },
+    "p1/C-s4": {
+      "out": 172798,
+      "inp": 2884,
+      "cc": 567947,
+      "cr": 31458529,
+      "turns": 353,
+      "tools": 145,
+      "summaries": [
+        2338,
+        3131
+      ],
+      "summary_chars": [
+        9353,
+        12527
+      ],
+      "post_fork_lines": 777,
+      "total_lines": 1349,
+      "cost": 2.3637
+    },
+    "p1/C-s5": {
+      "out": 103338,
+      "inp": 1852,
+      "cc": 399084,
+      "cr": 14511136,
+      "turns": 223,
+      "tools": 83,
+      "summaries": [
+        2338,
+        3109
+      ],
+      "summary_chars": [
+        9353,
+        12438
+      ],
+      "post_fork_lines": 543,
+      "total_lines": 1115,
+      "cost": 1.3009
+    },
+    "p1/D-s1": {
+      "out": 133731,
+      "inp": 1958,
+      "cc": 406370,
+      "cr": 17115646,
+      "turns": 237,
+      "tools": 91,
+      "summaries": [
+        2338,
+        2605
+      ],
+      "summary_chars": [
+        9353,
+        10423
+      ],
+      "post_fork_lines": 559,
+      "total_lines": 1131,
+      "cost": 1.4542
+    },
+    "p1/D-s2": {
+      "out": 179923,
+      "inp": 2760,
+      "cc": 498630,
+      "cr": 31018323,
+      "turns": 337,
+      "tools": 139,
+      "summaries": [
+        2338,
+        2992
+      ],
+      "summary_chars": [
+        9353,
+        11968
+      ],
+      "post_fork_lines": 754,
+      "total_lines": 1326,
+      "cost": 2.3125
+    },
+    "p1/D-s3": {
+      "out": 168605,
+      "inp": 2934,
+      "cc": 1165051,
+      "cr": 33337293,
+      "turns": 359,
+      "tools": 150,
+      "summaries": [
+        2338,
+        3479
+      ],
+      "summary_chars": [
+        9353,
+        13916
+      ],
+      "post_fork_lines": 785,
+      "total_lines": 1357,
+      "cost": 2.8889
+    },
+    "p1/D-s4": {
+      "out": 166031,
+      "inp": 2618,
+      "cc": 423745,
+      "cr": 27872633,
+      "turns": 321,
+      "tools": 137,
+      "summaries": [
+        2338,
+        3683
+      ],
+      "summary_chars": [
+        9353,
+        14735
+      ],
+      "post_fork_lines": 730,
+      "total_lines": 1302,
+      "cost": 2.1808
+    },
+    "p1/D-s5": {
+      "out": 84666,
+      "inp": 1604,
+      "cc": 331416,
+      "cr": 12946579,
+      "turns": 194,
+      "tools": 77,
+      "summaries": [
+        2338,
+        2467
+      ],
+      "summary_chars": [
+        9353,
+        9871
+      ],
+      "post_fork_lines": 476,
+      "total_lines": 1048,
+      "cost": 1.169
+    },
+    "p2/A-s1": {
+      "out": 239436,
+      "inp": 3692,
+      "cc": 617510,
+      "cr": 43327986,
+      "turns": 453,
+      "tools": 194,
+      "summaries": [
+        2247,
+        3248
+      ],
+      "summary_chars": [
+        8991,
+        12995
+      ],
+      "post_fork_lines": 956,
+      "total_lines": 1529,
+      "cost": 3.1389
+    },
+    "p2/A-s2": {
+      "out": 200659,
+      "inp": 3690,
+      "cc": 685555,
+      "cr": 40799958,
+      "turns": 454,
+      "tools": 201,
+      "summaries": [
+        2247,
+        3309
+      ],
+      "summary_chars": [
+        8991,
+        13236
+      ],
+      "post_fork_lines": 974,
+      "total_lines": 1547,
+      "cost": 3.0744
+    },
+    "p2/A-s3": {
+      "out": 140558,
+      "inp": 2388,
+      "cc": 446320,
+      "cr": 21062223,
+      "turns": 291,
+      "tools": 118,
+      "summaries": [
+        2247,
+        4270
+      ],
+      "summary_chars": [
+        8991,
+        17083
+      ],
+      "post_fork_lines": 652,
+      "total_lines": 1225,
+      "cost": 1.7383
+    },
+    "p2/A-s4": {
+      "out": 225058,
+      "inp": 3214,
+      "cc": 1955024,
+      "cr": 28855393,
+      "turns": 393,
+      "tools": 169,
+      "summaries": [
+        2247,
+        2832
+      ],
+      "summary_chars": [
+        8991,
+        11331
+      ],
+      "post_fork_lines": 847,
+      "total_lines": 1420,
+      "cost": 3.3128
+    },
+    "p2/A-s5": {
+      "out": 150462,
+      "inp": 2986,
+      "cc": 530010,
+      "cr": 30259897,
+      "turns": 366,
+      "tools": 160,
+      "summaries": [
+        2247,
+        3759
+      ],
+      "summary_chars": [
+        8991,
+        15036
+      ],
+      "post_fork_lines": 809,
+      "total_lines": 1382,
+      "cost": 2.3467
+    },
+    "p2/B-s1": {
+      "out": 154903,
+      "inp": 2278,
+      "cc": 515922,
+      "cr": 22564221,
+      "turns": 277,
+      "tools": 113,
+      "summaries": [
+        2247,
+        3031
+      ],
+      "summary_chars": [
+        8991,
+        12124
+      ],
+      "post_fork_lines": 637,
+      "total_lines": 1210,
+      "cost": 1.9093
+    },
+    "p2/B-s2": {
+      "out": 149260,
+      "inp": 2886,
+      "cc": 479815,
+      "cr": 25988887,
+      "turns": 353,
+      "tools": 150,
+      "summaries": [
+        2247,
+        3771
+      ],
+      "summary_chars": [
+        8991,
+        15084
+      ],
+      "post_fork_lines": 775,
+      "total_lines": 1348,
+      "cost": 2.0824
+    },
+    "p2/B-s3": {
+      "out": 132533,
+      "inp": 2448,
+      "cc": 461938,
+      "cr": 22023210,
+      "turns": 298,
+      "tools": 122,
+      "summaries": [
+        2247,
+        4237
+      ],
+      "summary_chars": [
+        8991,
+        16948
+      ],
+      "post_fork_lines": 670,
+      "total_lines": 1243,
+      "cost": 1.791
+    },
+    "p2/B-s4": {
+      "out": 115734,
+      "inp": 1944,
+      "cc": 466023,
+      "cr": 18281999,
+      "turns": 236,
+      "tools": 94,
+      "summaries": [
+        2247,
+        3177
+      ],
+      "summary_chars": [
+        8991,
+        12710
+      ],
+      "post_fork_lines": 573,
+      "total_lines": 1146,
+      "cost": 1.614
+    },
+    "p2/B-s5": {
+      "out": 200613,
+      "inp": 2574,
+      "cc": 824888,
+      "cr": 25162214,
+      "turns": 313,
+      "tools": 124,
+      "summaries": [
+        2247,
+        2378
+      ],
+      "summary_chars": [
+        8991,
+        9513
+      ],
+      "post_fork_lines": 715,
+      "total_lines": 1288,
+      "cost": 2.2608
+    },
+    "p2/C-s1": {
+      "out": 163848,
+      "inp": 2836,
+      "cc": 517997,
+      "cr": 27638168,
+      "turns": 346,
+      "tools": 147,
+      "summaries": [
+        2247,
+        3549
+      ],
+      "summary_chars": [
+        8991,
+        14199
+      ],
+      "post_fork_lines": 782,
+      "total_lines": 1355,
+      "cost": 2.1914
+    },
+    "p2/C-s2": {
+      "out": 139958,
+      "inp": 2194,
+      "cc": 494040,
+      "cr": 19530367,
+      "turns": 266,
+      "tools": 104,
+      "summaries": [
+        2247,
+        3047
+      ],
+      "summary_chars": [
+        8991,
+        12188
+      ],
+      "post_fork_lines": 613,
+      "total_lines": 1186,
+      "cost": 1.6838
+    },
+    "p2/C-s3": {
+      "out": 301913,
+      "inp": 3502,
+      "cc": 832093,
+      "cr": 38628796,
+      "turns": 429,
+      "tools": 166,
+      "summaries": [
+        2247,
+        2645
+      ],
+      "summary_chars": [
+        8991,
+        10583
+      ],
+      "post_fork_lines": 924,
+      "total_lines": 1497,
+      "cost": 2.9458
+    },
+    "p2/C-s4": {
+      "out": 130030,
+      "inp": 2050,
+      "cc": 445699,
+      "cr": 18765711,
+      "turns": 249,
+      "tools": 99,
+      "summaries": [
+        2247,
+        2437
+      ],
+      "summary_chars": [
+        8991,
+        9750
+      ],
+      "post_fork_lines": 577,
+      "total_lines": 1150,
+      "cost": 1.5827
+    },
+    "p2/C-s5": {
+      "out": 220168,
+      "inp": 2864,
+      "cc": 565504,
+      "cr": 29760868,
+      "turns": 350,
+      "tools": 143,
+      "summaries": [
+        2247,
+        3042
+      ],
+      "summary_chars": [
+        8991,
+        12168
+      ],
+      "post_fork_lines": 774,
+      "total_lines": 1347,
+      "cost": 2.3342
+    },
+    "p2/D-s1": {
+      "out": 97599,
+      "inp": 1786,
+      "cc": 390573,
+      "cr": 13539004,
+      "turns": 214,
+      "tools": 78,
+      "summaries": [
+        2247,
+        2568
+      ],
+      "summary_chars": [
+        8991,
+        10275
+      ],
+      "post_fork_lines": 519,
+      "total_lines": 1092,
+      "cost": 1.2185
+    },
+    "p2/D-s2": {
+      "out": 108541,
+      "inp": 1996,
+      "cc": 360271,
+      "cr": 16752899,
+      "turns": 242,
+      "tools": 97,
+      "summaries": [
+        2247,
+        2617
+      ],
+      "summary_chars": [
+        8991,
+        10471
+      ],
+      "post_fork_lines": 560,
+      "total_lines": 1133,
+      "cost": 1.4125
+    },
+    "p2/D-s3": {
+      "out": 130785,
+      "inp": 2772,
+      "cc": 440953,
+      "cr": 27930186,
+      "turns": 340,
+      "tools": 148,
+      "summaries": [
+        2247,
+        4107
+      ],
+      "summary_chars": [
+        8991,
+        16431
+      ],
+      "post_fork_lines": 760,
+      "total_lines": 1333,
+      "cost": 2.1238
+    },
+    "p2/D-s4": {
+      "out": 117724,
+      "inp": 2020,
+      "cc": 368611,
+      "cr": 17008681,
+      "turns": 245,
+      "tools": 95,
+      "summaries": [
+        2247,
+        2365
+      ],
+      "summary_chars": [
+        8991,
+        9460
+      ],
+      "post_fork_lines": 565,
+      "total_lines": 1138,
+      "cost": 1.3962
+    },
+    "p2/D-s5": {
+      "out": 134137,
+      "inp": 2450,
+      "cc": 409054,
+      "cr": 24136316,
+      "turns": 299,
+      "tools": 127,
+      "summaries": [
+        2247,
+        2789
+      ],
+      "summary_chars": [
+        8991,
+        11157
+      ],
+      "post_fork_lines": 679,
+      "total_lines": 1252,
+      "cost": 1.9059
+    },
+    "p3/A-s1": {
+      "out": 190996,
+      "inp": 2586,
+      "cc": 567800,
+      "cr": 25727412,
+      "turns": 315,
+      "tools": 128,
+      "summaries": [
+        2957,
+        3696
+      ],
+      "summary_chars": [
+        11831,
+        14786
+      ],
+      "post_fork_lines": 705,
+      "total_lines": 1244,
+      "cost": 2.1407
+    },
+    "p3/A-s2": {
+      "out": 230363,
+      "inp": 2804,
+      "cc": 645735,
+      "cr": 31238080,
+      "turns": 343,
+      "tools": 132,
+      "summaries": [
+        2957,
+        3215
+      ],
+      "summary_chars": [
+        11831,
+        12862
+      ],
+      "post_fork_lines": 750,
+      "total_lines": 1289,
+      "cost": 2.4186
+    },
+    "p3/A-s3": {
+      "out": 212444,
+      "inp": 3024,
+      "cc": 654227,
+      "cr": 32740911,
+      "turns": 369,
+      "tools": 149,
+      "summaries": [
+        2957,
+        2878
+      ],
+      "summary_chars": [
+        11831,
+        11515
+      ],
+      "post_fork_lines": 809,
+      "total_lines": 1348,
+      "cost": 2.5462
+    },
+    "p3/A-s4": {
+      "out": 150366,
+      "inp": 2286,
+      "cc": 534952,
+      "cr": 20914584,
+      "turns": 278,
+      "tools": 110,
+      "summaries": [
+        2957,
+        3285
+      ],
+      "summary_chars": [
+        11831,
+        13141
+      ],
+      "post_fork_lines": 625,
+      "total_lines": 1164,
+      "cost": 1.7853
+    },
+    "p3/A-s5": {
+      "out": 227819,
+      "inp": 2762,
+      "cc": 625632,
+      "cr": 31386636,
+      "turns": 337,
+      "tools": 137,
+      "summaries": [
+        2957,
+        4287
+      ],
+      "summary_chars": [
+        11831,
+        17151
+      ],
+      "post_fork_lines": 754,
+      "total_lines": 1293,
+      "cost": 2.5151
+    },
+    "p3/B-s1": {
+      "out": 155006,
+      "inp": 1686,
+      "cc": 504906,
+      "cr": 19170971,
+      "turns": 203,
+      "tools": 80,
+      "summaries": [
+        2957,
+        4255
+      ],
+      "summary_chars": [
+        11831,
+        17022
+      ],
+      "post_fork_lines": 503,
+      "total_lines": 1042,
+      "cost": 1.7821
+    },
+    "p3/B-s2": {
+      "out": 213646,
+      "inp": 2636,
+      "cc": 683874,
+      "cr": 28413063,
+      "turns": 320,
+      "tools": 142,
+      "summaries": [
+        2957,
+        3600
+      ],
+      "summary_chars": [
+        11831,
+        14402
+      ],
+      "post_fork_lines": 731,
+      "total_lines": 1270,
+      "cost": 2.2841
+    },
+    "p3/B-s3": {
+      "out": 181547,
+      "inp": 2594,
+      "cc": 738913,
+      "cr": 31270183,
+      "turns": 316,
+      "tools": 126,
+      "summaries": [
+        2957,
+        3459
+      ],
+      "summary_chars": [
+        11831,
+        13836
+      ],
+      "post_fork_lines": 705,
+      "total_lines": 1244,
+      "cost": 2.5307
+    },
+    "p3/B-s4": {
+      "out": 151169,
+      "inp": 1976,
+      "cc": 784724,
+      "cr": 18207202,
+      "turns": 239,
+      "tools": 93,
+      "summaries": [
+        2957,
+        3659
+      ],
+      "summary_chars": [
+        11831,
+        14636
+      ],
+      "post_fork_lines": 561,
+      "total_lines": 1100,
+      "cost": 1.9434
+    },
+    "p3/B-s5": {
+      "out": 147824,
+      "inp": 1968,
+      "cc": 512386,
+      "cr": 22161965,
+      "turns": 238,
+      "tools": 92,
+      "summaries": [
+        2957,
+        2318
+      ],
+      "summary_chars": [
+        11831,
+        9273
+      ],
+      "post_fork_lines": 559,
+      "total_lines": 1098,
+      "cost": 1.8637
+    },
+    "p3/C-s1": {
+      "out": 255573,
+      "inp": 3660,
+      "cc": 1074211,
+      "cr": 44165814,
+      "turns": 449,
+      "tools": 196,
+      "summaries": [
+        2957,
+        3293
+      ],
+      "summary_chars": [
+        11831,
+        13173
+      ],
+      "post_fork_lines": 953,
+      "total_lines": 1492,
+      "cost": 3.542
+    },
+    "p3/C-s2": {
+      "out": 195579,
+      "inp": 2816,
+      "cc": 577573,
+      "cr": 28704815,
+      "turns": 344,
+      "tools": 147,
+      "summaries": [
+        2957,
+        3919
+      ],
+      "summary_chars": [
+        11831,
+        15679
+      ],
+      "post_fork_lines": 771,
+      "total_lines": 1310,
+      "cost": 2.3681
+    },
+    "p3/C-s3": {
+      "out": 209312,
+      "inp": 2740,
+      "cc": 693270,
+      "cr": 29323750,
+      "turns": 334,
+      "tools": 133,
+      "summaries": [
+        2957,
+        4229
+      ],
+      "summary_chars": [
+        11831,
+        16916
+      ],
+      "post_fork_lines": 739,
+      "total_lines": 1278,
+      "cost": 2.4005
+    },
+    "p3/C-s4": {
+      "out": 187782,
+      "inp": 2838,
+      "cc": 561895,
+      "cr": 30345252,
+      "turns": 347,
+      "tools": 152,
+      "summaries": [
+        2957,
+        3229
+      ],
+      "summary_chars": [
+        11831,
+        12918
+      ],
+      "post_fork_lines": 774,
+      "total_lines": 1313,
+      "cost": 2.4783
+    },
+    "p3/C-s5": {
+      "out": 216000,
+      "inp": 2786,
+      "cc": 603081,
+      "cr": 29348289,
+      "turns": 340,
+      "tools": 134,
+      "summaries": [
+        2957,
+        3303
+      ],
+      "summary_chars": [
+        11831,
+        13215
+      ],
+      "post_fork_lines": 746,
+      "total_lines": 1285,
+      "cost": 2.3171
+    },
+    "p3/D-s1": {
+      "out": 120665,
+      "inp": 1633,
+      "cc": 426096,
+      "cr": 13105169,
+      "turns": 196,
+      "tools": 67,
+      "summaries": [
+        2957,
+        2554
+      ],
+      "summary_chars": [
+        11831,
+        10219
+      ],
+      "post_fork_lines": 474,
+      "total_lines": 1013,
+      "cost": 1.2163
+    },
+    "p3/D-s2": {
+      "out": 169776,
+      "inp": 2300,
+      "cc": 538517,
+      "cr": 26977461,
+      "turns": 280,
+      "tools": 112,
+      "summaries": [
+        2957,
+        2827
+      ],
+      "summary_chars": [
+        11831,
+        11309
+      ],
+      "post_fork_lines": 649,
+      "total_lines": 1188,
+      "cost": 2.1307
+    },
+    "p3/D-s3": {
+      "out": 129021,
+      "inp": 2013,
+      "cc": 454228,
+      "cr": 18114728,
+      "turns": 244,
+      "tools": 95,
+      "summaries": [
+        2957,
+        3572
+      ],
+      "summary_chars": [
+        11831,
+        14291
+      ],
+      "post_fork_lines": 571,
+      "total_lines": 1110,
+      "cost": 1.5555
+    },
+    "p3/D-s4": {
+      "out": 133638,
+      "inp": 2176,
+      "cc": 475315,
+      "cr": 19378261,
+      "turns": 263,
+      "tools": 104,
+      "summaries": [
+        2957,
+        3137
+      ],
+      "summary_chars": [
+        11831,
+        12549
+      ],
+      "post_fork_lines": 608,
+      "total_lines": 1147,
+      "cost": 1.6676
+    },
+    "p3/D-s5": {
+      "out": 134054,
+      "inp": 2126,
+      "cc": 402703,
+      "cr": 20795157,
+      "turns": 258,
+      "tools": 109,
+      "summaries": [
+        2957,
+        2537
+      ],
+      "summary_chars": [
+        11831,
+        10148
+      ],
+      "post_fork_lines": 608,
+      "total_lines": 1147,
+      "cost": 1.7427
+    }
+  },
+  "payload_tokens": {
+    "p1": {
+      "gen1": {
+        "B": 1146,
+        "C": 1110,
+        "D": 1107
+      },
+      "gen2": {
+        "B-s1": 1252,
+        "C-s1": 1252,
+        "D-s1": 1209,
+        "B-s2": 1252,
+        "C-s2": 1251,
+        "D-s2": 1209,
+        "B-s3": 1252,
+        "C-s3": 1252,
+        "D-s3": 1209,
+        "B-s4": 1257,
+        "C-s4": 1252,
+        "D-s4": 1209,
+        "B-s5": 1252,
+        "C-s5": 1251,
+        "D-s5": 1209
+      }
+    },
+    "p2": {
+      "gen1": {
+        "B": 1157,
+        "C": 1130,
+        "D": 1107
+      },
+      "gen2": {
+        "B-s1": 1265,
+        "C-s1": 1274,
+        "D-s1": 1209,
+        "B-s2": 1265,
+        "C-s2": 1274,
+        "D-s2": 1209,
+        "B-s3": 1265,
+        "C-s3": 1274,
+        "D-s3": 1209,
+        "B-s4": 1265,
+        "C-s4": 1274,
+        "D-s4": 1209,
+        "B-s5": 1265,
+        "C-s5": 1274,
+        "D-s5": 1209
+      }
+    },
+    "p3": {
+      "gen1": {
+        "B": 1172,
+        "C": 1147,
+        "D": 1122
+      },
+      "gen2": {
+        "B-s1": 1276,
+        "C-s1": 1256,
+        "D-s1": 1224,
+        "B-s2": 1276,
+        "C-s2": 1256,
+        "D-s2": 1224,
+        "B-s3": 1276,
+        "C-s3": 1256,
+        "D-s3": 1224,
+        "B-s4": 1276,
+        "C-s4": 1256,
+        "D-s4": 1224,
+        "B-s5": 1276,
+        "C-s5": 1256,
+        "D-s5": 1224
+      }
+    }
+  },
+  "per_arm": {
+    "A": {
+      "n": 15,
+      "output_tokens": 2902248,
+      "fresh_input_tokens": 43496,
+      "cache_creation_tokens": 10799689,
+      "cache_read_tokens": 451996330,
+      "assistant_turns": 5315,
+      "tool_calls": 2212,
+      "cost_usd": 37.17,
+      "compaction_summaries_seen": 30,
+      "summary_tokens_mean": 2948.8,
+      "summary_tokens_all": [
+        2338,
+        2926,
+        2338,
+        2360,
+        2338,
+        3367,
+        2338,
+        3275,
+        2338,
+        4048,
+        2247,
+        3248,
+        2247,
+        3309,
+        2247,
+        4270,
+        2247,
+        2832,
+        2247,
+        3759,
+        2957,
+        3696,
+        2957,
+        3215,
+        2957,
+        2878,
+        2957,
+        3285,
+        2957,
+        4287
+      ]
+    },
+    "B": {
+      "n": 15,
+      "output_tokens": 2266003,
+      "fresh_input_tokens": 32988,
+      "cache_creation_tokens": 8226856,
+      "cache_read_tokens": 322764602,
+      "assistant_turns": 3998,
+      "tool_calls": 1599,
+      "cost_usd": 27.97,
+      "compaction_summaries_seen": 30,
+      "summary_tokens_mean": 2851.2,
+      "summary_tokens_all": [
+        2338,
+        2870,
+        2338,
+        3016,
+        2338,
+        2361,
+        2338,
+        2788,
+        2338,
+        2906,
+        2247,
+        3031,
+        2247,
+        3771,
+        2247,
+        4237,
+        2247,
+        3177,
+        2247,
+        2378,
+        2957,
+        4255,
+        2957,
+        3600,
+        2957,
+        3459,
+        2957,
+        3659,
+        2957,
+        2318
+      ]
+    },
+    "C": {
+      "n": 15,
+      "output_tokens": 2832996,
+      "fresh_input_tokens": 42002,
+      "cache_creation_tokens": 9069364,
+      "cache_read_tokens": 434936800,
+      "assistant_turns": 5127,
+      "tool_calls": 2117,
+      "cost_usd": 34.81,
+      "compaction_summaries_seen": 30,
+      "summary_tokens_mean": 2857.7,
+      "summary_tokens_all": [
+        2338,
+        2839,
+        2338,
+        2584,
+        2338,
+        3666,
+        2338,
+        3131,
+        2338,
+        3109,
+        2247,
+        3549,
+        2247,
+        3047,
+        2247,
+        2645,
+        2247,
+        2437,
+        2247,
+        3042,
+        2957,
+        3293,
+        2957,
+        3919,
+        2957,
+        4229,
+        2957,
+        3229,
+        2957,
+        3303
+      ]
+    },
+    "D": {
+      "n": 15,
+      "output_tokens": 2008896,
+      "fresh_input_tokens": 33146,
+      "cache_creation_tokens": 7091533,
+      "cache_read_tokens": 320028336,
+      "assistant_turns": 4029,
+      "tool_calls": 1626,
+      "cost_usd": 26.38,
+      "compaction_summaries_seen": 30,
+      "summary_tokens_mean": 2733.6,
+      "summary_tokens_all": [
+        2338,
+        2605,
+        2338,
+        2992,
+        2338,
+        3479,
+        2338,
+        3683,
+        2338,
+        2467,
+        2247,
+        2568,
+        2247,
+        2617,
+        2247,
+        4107,
+        2247,
+        2365,
+        2247,
+        2789,
+        2957,
+        2554,
+        2957,
+        2827,
+        2957,
+        3572,
+        2957,
+        3137,
+        2957,
+        2537
+      ]
+    }
+  }
+}

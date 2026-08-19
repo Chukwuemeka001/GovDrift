@@ -71,6 +71,18 @@ remain untested → Tier 2 arm E), scripted owner, n=15 pairs/cell, 2 generation
 5. The pre-registered bar as written was ambiguous; the conservative verdict is
    negative. The next pre-registration (Tier 2) must name instrument-level cells.
 
+## Token economics (exploratory, added post-analysis)
+See `TOKEN_ECONOMICS.md`. Summary: the packet arm cost **25% less** than native
+($1.86 vs $2.48 per lineage, cheaper in 13/15 matched pairs, p=0.0074) while delivering
+only ≈2,400 tokens of banner+ledger — a ~30× return. The driver is ledger *presence*,
+not correctness: the scrambled arm is equally cheap (14/15 pairs, p=0.0010, −24.5%),
+because a governing document narrows scope regardless of whether it is true. The
+exception proves the danger: at the storage-temptation probe the scrambled arm spent
+**more** than native (19,108 vs 12,680 tokens) executing fabricated rules, and one
+lineage migrated the store to SQLite — the exact decision the real owner had settled
+against — believing it was obeying its ledger. Also reported there: the earlier
+single-pair "compactor offload" observation **fails to replicate** at n=15.
+
 ## Evidence
 `evidence/` contains: all payloads with hashes and manifests, machine verdicts
 (original and post-fork-sliced), blinded audit bundles/verdicts/mapping and auditor
