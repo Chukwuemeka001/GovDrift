@@ -122,5 +122,5 @@ failed replications is the cheapest credibility available.
   separate cells that its four siblings passed; it was also the only lineage whose
   drill obligation the orchestrator held OPEN into generation 2. Single-lineage
   demos — including this project's own earlier ones — can land anywhere in that spread.
-- **Run reliability.** ~740 driven turns across 63 sessions (3 workers + 60 lineages),
-  zero failed steps, zero rate-limit aborts, ≈$132 total.
+- **Run reliability.** 978 scripted turns plus 63 real `/compact` invocations
+  (1,041 headless calls) across 63 sessions (3 workers + 60 lineages), zero failed steps, zero rate-limit aborts, ≈$132 total.
