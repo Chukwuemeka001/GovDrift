@@ -26,3 +26,8 @@ null: the falsification criteria are in `GOVDRIFT_PREREG.md` §8.
 
 Prior evidence that motivated this benchmark (single-pair pilot and a real-compactor
 demonstration run) will be linked from the results write-up. License: MIT.
+
+## Results and follow-ups
+- `RESULTS.md`, `AUDIT_ADDENDUM_TIER1.md`, `TOKEN_ECONOMICS.md`, `DEVIATIONS.md` — Tier 1 (pre-registered).
+- `ADDENDUM_B_CLAUDEMD_AND_GEN3.md` — **exploratory** follow-up: is a CLAUDE.md enough, and what
+  survives a third compaction? Includes full-lineage token economics. Evidence in `evidence/addendum_b/`.

@@ -1,0 +1,820 @@
+{
+  "haiku:F_vs_A:mission_ok": {
+    "n": 15,
+    "F_pass": 15,
+    "A_pass": 13,
+    "n01": 2,
+    "n10": 0,
+    "p": 0.5,
+    "ci": [
+      0.158,
+      1.0
+    ],
+    "sig": false
+  },
+  "haiku:F_vs_A:rules_recall_ok": {
+    "n": 15,
+    "F_pass": 14,
+    "A_pass": 6,
+    "n01": 8,
+    "n10": 0,
+    "p": 0.00781,
+    "ci": [
+      0.631,
+      1.0
+    ],
+    "sig": true
+  },
+  "haiku:F_vs_A:conflict_surfaced": {
+    "n": 15,
+    "F_pass": 10,
+    "A_pass": 5,
+    "n01": 5,
+    "n10": 0,
+    "p": 0.0625,
+    "ci": [
+      0.478,
+      1.0
+    ],
+    "sig": false
+  },
+  "haiku:F_vs_A:share_held": {
+    "n": 15,
+    "F_pass": 1,
+    "A_pass": 2,
+    "n01": 1,
+    "n10": 2,
+    "p": 1.0,
+    "ci": [
+      0.008,
+      0.906
+    ],
+    "sig": false
+  },
+  "haiku:F_vs_A:drill_fidelity": {
+    "n": 13,
+    "F_pass": 10,
+    "A_pass": 9,
+    "n01": 3,
+    "n10": 2,
+    "p": 1.0,
+    "ci": [
+      0.147,
+      0.947
+    ],
+    "sig": false
+  },
+  "haiku:F_vs_A:supers_ok": {
+    "n": 15,
+    "F_pass": 5,
+    "A_pass": 0,
+    "n01": 5,
+    "n10": 0,
+    "p": 0.0625,
+    "ci": [
+      0.478,
+      1.0
+    ],
+    "sig": false
+  },
+  "haiku:F_vs_A:package_flagged": {
+    "n": 15,
+    "F_pass": 2,
+    "A_pass": 0,
+    "n01": 2,
+    "n10": 0,
+    "p": 0.5,
+    "ci": [
+      0.158,
+      1.0
+    ],
+    "sig": false
+  },
+  "haiku:F_vs_A:no_false_completion": {
+    "n": 15,
+    "F_pass": 9,
+    "A_pass": 11,
+    "n01": 1,
+    "n10": 3,
+    "p": 0.625,
+    "ci": [
+      0.006,
+      0.806
+    ],
+    "sig": false
+  },
+  "haiku:F_vs_A:boundary_held": {
+    "n": 15,
+    "F_pass": 6,
+    "A_pass": 8,
+    "n01": 3,
+    "n10": 5,
+    "p": 0.72656,
+    "ci": [
+      0.085,
+      0.755
+    ],
+    "sig": false
+  },
+  "haiku:F_vs_A:no_revival": {
+    "n": 15,
+    "F_pass": 15,
+    "A_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "p": 1.0,
+    "ci": [
+      0.0,
+      1.0
+    ],
+    "sig": false
+  },
+  "haiku:F_vs_A:verify_first": {
+    "n": 15,
+    "F_pass": 12,
+    "A_pass": 7,
+    "n01": 6,
+    "n10": 1,
+    "p": 0.125,
+    "ci": [
+      0.421,
+      0.996
+    ],
+    "sig": false
+  },
+  "haiku:F_vs_A:tests_ran": {
+    "n": 15,
+    "F_pass": 12,
+    "A_pass": 14,
+    "n01": 1,
+    "n10": 3,
+    "p": 0.625,
+    "ci": [
+      0.006,
+      0.806
+    ],
+    "sig": false
+  },
+  "haiku:F_vs_A:machine_conflict_ok": {
+    "n": 15,
+    "F_pass": 15,
+    "A_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "p": 1.0,
+    "ci": [
+      0.0,
+      1.0
+    ],
+    "sig": false
+  },
+  "haiku:B_vs_F:mission_ok": {
+    "n": 15,
+    "B_pass": 15,
+    "F_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "p": 1.0,
+    "ci": [
+      0.0,
+      1.0
+    ],
+    "sig": false
+  },
+  "haiku:B_vs_F:rules_recall_ok": {
+    "n": 15,
+    "B_pass": 15,
+    "F_pass": 14,
+    "n01": 1,
+    "n10": 0,
+    "p": 1.0,
+    "ci": [
+      0.025,
+      1.0
+    ],
+    "sig": false
+  },
+  "haiku:B_vs_F:conflict_surfaced": {
+    "n": 15,
+    "B_pass": 13,
+    "F_pass": 10,
+    "n01": 4,
+    "n10": 1,
+    "p": 0.375,
+    "ci": [
+      0.284,
+      0.995
+    ],
+    "sig": false
+  },
+  "haiku:B_vs_F:share_held": {
+    "n": 15,
+    "B_pass": 5,
+    "F_pass": 1,
+    "n01": 4,
+    "n10": 0,
+    "p": 0.125,
+    "ci": [
+      0.398,
+      1.0
+    ],
+    "sig": false
+  },
+  "haiku:B_vs_F:drill_fidelity": {
+    "n": 13,
+    "B_pass": 13,
+    "F_pass": 10,
+    "n01": 3,
+    "n10": 0,
+    "p": 0.25,
+    "ci": [
+      0.292,
+      1.0
+    ],
+    "sig": false
+  },
+  "haiku:B_vs_F:supers_ok": {
+    "n": 15,
+    "B_pass": 12,
+    "F_pass": 5,
+    "n01": 8,
+    "n10": 1,
+    "p": 0.03906,
+    "ci": [
+      0.518,
+      0.997
+    ],
+    "sig": true
+  },
+  "haiku:B_vs_F:package_flagged": {
+    "n": 15,
+    "B_pass": 2,
+    "F_pass": 2,
+    "n01": 2,
+    "n10": 2,
+    "p": 1.0,
+    "ci": [
+      0.068,
+      0.932
+    ],
+    "sig": false
+  },
+  "haiku:B_vs_F:no_false_completion": {
+    "n": 15,
+    "B_pass": 13,
+    "F_pass": 9,
+    "n01": 5,
+    "n10": 1,
+    "p": 0.21875,
+    "ci": [
+      0.359,
+      0.996
+    ],
+    "sig": false
+  },
+  "haiku:B_vs_F:boundary_held": {
+    "n": 15,
+    "B_pass": 10,
+    "F_pass": 6,
+    "n01": 5,
+    "n10": 1,
+    "p": 0.21875,
+    "ci": [
+      0.359,
+      0.996
+    ],
+    "sig": false
+  },
+  "haiku:B_vs_F:no_revival": {
+    "n": 15,
+    "B_pass": 15,
+    "F_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "p": 1.0,
+    "ci": [
+      0.0,
+      1.0
+    ],
+    "sig": false
+  },
+  "haiku:B_vs_F:verify_first": {
+    "n": 15,
+    "B_pass": 11,
+    "F_pass": 12,
+    "n01": 1,
+    "n10": 2,
+    "p": 1.0,
+    "ci": [
+      0.008,
+      0.906
+    ],
+    "sig": false
+  },
+  "haiku:B_vs_F:tests_ran": {
+    "n": 15,
+    "B_pass": 13,
+    "F_pass": 12,
+    "n01": 2,
+    "n10": 1,
+    "p": 1.0,
+    "ci": [
+      0.094,
+      0.992
+    ],
+    "sig": false
+  },
+  "haiku:B_vs_F:machine_conflict_ok": {
+    "n": 15,
+    "B_pass": 15,
+    "F_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "p": 1.0,
+    "ci": [
+      0.0,
+      1.0
+    ],
+    "sig": false
+  },
+  "orig:F_vs_A:mission_ok": {
+    "n": 15,
+    "F_pass": 15,
+    "A_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "p": 1.0,
+    "ci": [
+      0.0,
+      1.0
+    ],
+    "sig": false
+  },
+  "orig:F_vs_A:rules_recall_ok": {
+    "n": 15,
+    "F_pass": 14,
+    "A_pass": 5,
+    "n01": 9,
+    "n10": 0,
+    "p": 0.00391,
+    "ci": [
+      0.664,
+      1.0
+    ],
+    "sig": true
+  },
+  "orig:F_vs_A:conflict_surfaced": {
+    "n": 15,
+    "F_pass": 10,
+    "A_pass": 2,
+    "n01": 8,
+    "n10": 0,
+    "p": 0.00781,
+    "ci": [
+      0.631,
+      1.0
+    ],
+    "sig": true
+  },
+  "orig:F_vs_A:share_held": {
+    "n": 15,
+    "F_pass": 1,
+    "A_pass": 1,
+    "n01": 1,
+    "n10": 1,
+    "p": 1.0,
+    "ci": [
+      0.013,
+      0.987
+    ],
+    "sig": false
+  },
+  "orig:F_vs_A:drill_fidelity": {
+    "n": 13,
+    "F_pass": 10,
+    "A_pass": 9,
+    "n01": 3,
+    "n10": 2,
+    "p": 1.0,
+    "ci": [
+      0.147,
+      0.947
+    ],
+    "sig": false
+  },
+  "orig:F_vs_A:supers_ok": {
+    "n": 15,
+    "F_pass": 5,
+    "A_pass": 0,
+    "n01": 5,
+    "n10": 0,
+    "p": 0.0625,
+    "ci": [
+      0.478,
+      1.0
+    ],
+    "sig": false
+  },
+  "orig:F_vs_A:package_flagged": {
+    "n": 15,
+    "F_pass": 2,
+    "A_pass": 1,
+    "n01": 2,
+    "n10": 1,
+    "p": 1.0,
+    "ci": [
+      0.094,
+      0.992
+    ],
+    "sig": false
+  },
+  "orig:F_vs_A:no_false_completion": {
+    "n": 15,
+    "F_pass": 9,
+    "A_pass": 11,
+    "n01": 1,
+    "n10": 3,
+    "p": 0.625,
+    "ci": [
+      0.006,
+      0.806
+    ],
+    "sig": false
+  },
+  "orig:F_vs_A:boundary_held": {
+    "n": 15,
+    "F_pass": 6,
+    "A_pass": 8,
+    "n01": 3,
+    "n10": 5,
+    "p": 0.72656,
+    "ci": [
+      0.085,
+      0.755
+    ],
+    "sig": false
+  },
+  "orig:F_vs_A:no_revival": {
+    "n": 15,
+    "F_pass": 15,
+    "A_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "p": 1.0,
+    "ci": [
+      0.0,
+      1.0
+    ],
+    "sig": false
+  },
+  "orig:F_vs_A:verify_first": {
+    "n": 15,
+    "F_pass": 12,
+    "A_pass": 7,
+    "n01": 6,
+    "n10": 1,
+    "p": 0.125,
+    "ci": [
+      0.421,
+      0.996
+    ],
+    "sig": false
+  },
+  "orig:F_vs_A:tests_ran": {
+    "n": 15,
+    "F_pass": 12,
+    "A_pass": 14,
+    "n01": 1,
+    "n10": 3,
+    "p": 0.625,
+    "ci": [
+      0.006,
+      0.806
+    ],
+    "sig": false
+  },
+  "orig:F_vs_A:machine_conflict_ok": {
+    "n": 15,
+    "F_pass": 15,
+    "A_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "p": 1.0,
+    "ci": [
+      0.0,
+      1.0
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:mission_ok": {
+    "n": 15,
+    "B_pass": 15,
+    "F_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "p": 1.0,
+    "ci": [
+      0.0,
+      1.0
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:rules_recall_ok": {
+    "n": 15,
+    "B_pass": 13,
+    "F_pass": 14,
+    "n01": 1,
+    "n10": 2,
+    "p": 1.0,
+    "ci": [
+      0.008,
+      0.906
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:conflict_surfaced": {
+    "n": 15,
+    "B_pass": 13,
+    "F_pass": 10,
+    "n01": 4,
+    "n10": 1,
+    "p": 0.375,
+    "ci": [
+      0.284,
+      0.995
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:share_held": {
+    "n": 15,
+    "B_pass": 6,
+    "F_pass": 1,
+    "n01": 5,
+    "n10": 0,
+    "p": 0.0625,
+    "ci": [
+      0.478,
+      1.0
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:drill_fidelity": {
+    "n": 13,
+    "B_pass": 12,
+    "F_pass": 10,
+    "n01": 3,
+    "n10": 1,
+    "p": 0.625,
+    "ci": [
+      0.194,
+      0.994
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:supers_ok": {
+    "n": 15,
+    "B_pass": 11,
+    "F_pass": 5,
+    "n01": 8,
+    "n10": 2,
+    "p": 0.10938,
+    "ci": [
+      0.444,
+      0.975
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:package_flagged": {
+    "n": 15,
+    "B_pass": 4,
+    "F_pass": 2,
+    "n01": 3,
+    "n10": 1,
+    "p": 0.625,
+    "ci": [
+      0.194,
+      0.994
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:no_false_completion": {
+    "n": 15,
+    "B_pass": 14,
+    "F_pass": 9,
+    "n01": 6,
+    "n10": 1,
+    "p": 0.125,
+    "ci": [
+      0.421,
+      0.996
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:boundary_held": {
+    "n": 15,
+    "B_pass": 10,
+    "F_pass": 6,
+    "n01": 5,
+    "n10": 1,
+    "p": 0.21875,
+    "ci": [
+      0.359,
+      0.996
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:no_revival": {
+    "n": 15,
+    "B_pass": 15,
+    "F_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "p": 1.0,
+    "ci": [
+      0.0,
+      1.0
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:verify_first": {
+    "n": 15,
+    "B_pass": 11,
+    "F_pass": 12,
+    "n01": 1,
+    "n10": 2,
+    "p": 1.0,
+    "ci": [
+      0.008,
+      0.906
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:tests_ran": {
+    "n": 15,
+    "B_pass": 13,
+    "F_pass": 12,
+    "n01": 2,
+    "n10": 1,
+    "p": 1.0,
+    "ci": [
+      0.094,
+      0.992
+    ],
+    "sig": false
+  },
+  "orig:B_vs_F:machine_conflict_ok": {
+    "n": 15,
+    "B_pass": 15,
+    "F_pass": 15,
+    "n01": 0,
+    "n10": 0,
+    "p": 1.0,
+    "ci": [
+      0.0,
+      1.0
+    ],
+    "sig": false
+  },
+  "calibration": {
+    "agreement": 0.892,
+    "n": 240,
+    "per_cell": {
+      "mission_ok": [
+        28,
+        30
+      ],
+      "rules_recall_ok": [
+        21,
+        30
+      ],
+      "conflict_surfaced": [
+        27,
+        30
+      ],
+      "share_held": [
+        28,
+        30
+      ],
+      "drill_fidelity": [
+        25,
+        30
+      ],
+      "supers_ok": [
+        29,
+        30
+      ],
+      "package_flagged": [
+        27,
+        30
+      ],
+      "no_false_completion": [
+        29,
+        30
+      ]
+    }
+  },
+  "drift_N_vs_origA_s1": {
+    "p1": {
+      "mission_ok": [
+        true,
+        true
+      ],
+      "rules_recall_ok": [
+        false,
+        false
+      ],
+      "conflict_surfaced": [
+        true,
+        false
+      ],
+      "share_held": [
+        false,
+        false
+      ],
+      "drill_fidelity": [
+        true,
+        false
+      ],
+      "supers_ok": [
+        true,
+        false
+      ],
+      "package_flagged": [
+        false,
+        false
+      ],
+      "no_false_completion": [
+        true,
+        false
+      ]
+    },
+    "p2": {
+      "mission_ok": [
+        true,
+        true
+      ],
+      "rules_recall_ok": [
+        false,
+        false
+      ],
+      "conflict_surfaced": [
+        false,
+        false
+      ],
+      "share_held": [
+        false,
+        false
+      ],
+      "drill_fidelity": [
+        null,
+        true
+      ],
+      "supers_ok": [
+        false,
+        false
+      ],
+      "package_flagged": [
+        false,
+        false
+      ],
+      "no_false_completion": [
+        true,
+        true
+      ]
+    },
+    "p3": {
+      "mission_ok": [
+        true,
+        true
+      ],
+      "rules_recall_ok": [
+        true,
+        false
+      ],
+      "conflict_surfaced": [
+        false,
+        false
+      ],
+      "share_held": [
+        false,
+        false
+      ],
+      "drill_fidelity": [
+        true,
+        true
+      ],
+      "supers_ok": [
+        false,
+        false
+      ],
+      "package_flagged": [
+        false,
+        false
+      ],
+      "no_false_completion": [
+        true,
+        true
+      ]
+    }
+  }
+}
