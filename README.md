@@ -33,3 +33,4 @@ demonstration run) will be linked from the results write-up. License: MIT.
   survives a third compaction? Includes full-lineage token economics. Evidence in `evidence/addendum_b/`.
 - `tier2/TIER2_PREREG.md` — **Tier 2 pre-registration** (native auto-memory ON; owner-confirmed ledger vs native across a fresh session, a second harness and two compactions; 45 lineages).
 - `tier2b/TIER2B_PREREG.md` — **Tier 2b pre-registration**: the same study with GPT-6-Sol (Codex CLI) as the main agent, Codex memory ON.
+- `tier2c/TIER2C_PREREG.md` — **Tier 2c pre-registration** (descriptive): the same study with Claude Opus 5.5 as the main agent, n=5 per arm.
