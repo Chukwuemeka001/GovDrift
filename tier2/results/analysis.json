@@ -1,0 +1,301 @@
+{
+ "n_pairs": 15,
+ "cells": {
+  "plugin_vs_native:P1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:P2": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:P3": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:P4": {
+   "a_only": 4,
+   "b_only": 0,
+   "p": 0.125,
+   "ci": [
+    0.398,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:P5": {
+   "a_only": 7,
+   "b_only": 0,
+   "p": 0.01562,
+   "ci": [
+    0.59,
+    1.0
+   ],
+   "supported": true
+  },
+  "plugin_vs_native:P6": {
+   "a_only": 0,
+   "b_only": 8,
+   "p": 0.00781,
+   "ci": [
+    0.0,
+    0.369
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:N1": {
+   "a_only": 11,
+   "b_only": 0,
+   "p": 0.00098,
+   "ci": [
+    0.715,
+    1.0
+   ],
+   "supported": true
+  },
+  "plugin_vs_native:X1": {
+   "a_only": 11,
+   "b_only": 0,
+   "p": 0.00098,
+   "ci": [
+    0.715,
+    1.0
+   ],
+   "supported": true
+  },
+  "plugin-lazy_vs_native:P1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P2": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P3": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P4": {
+   "a_only": 7,
+   "b_only": 0,
+   "p": 0.01562,
+   "ci": [
+    0.59,
+    1.0
+   ],
+   "supported": true
+  },
+  "plugin-lazy_vs_native:P5": {
+   "a_only": 9,
+   "b_only": 0,
+   "p": 0.00391,
+   "ci": [
+    0.664,
+    1.0
+   ],
+   "supported": true
+  },
+  "plugin-lazy_vs_native:P6": {
+   "a_only": 0,
+   "b_only": 11,
+   "p": 0.00098,
+   "ci": [
+    0.0,
+    0.285
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:N1": {
+   "a_only": 12,
+   "b_only": 0,
+   "p": 0.00049,
+   "ci": [
+    0.735,
+    1.0
+   ],
+   "supported": true
+  },
+  "plugin-lazy_vs_native:X1": {
+   "a_only": 7,
+   "b_only": 0,
+   "p": 0.01562,
+   "ci": [
+    0.59,
+    1.0
+   ],
+   "supported": true
+  },
+  "plugin_vs_plugin-lazy:P1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P2": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P3": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P4": {
+   "a_only": 2,
+   "b_only": 5,
+   "p": 0.45312,
+   "ci": [
+    0.037,
+    0.71
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P5": {
+   "a_only": 0,
+   "b_only": 2,
+   "p": 0.5,
+   "ci": [
+    0.0,
+    0.842
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P6": {
+   "a_only": 3,
+   "b_only": 0,
+   "p": 0.25,
+   "ci": [
+    0.292,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:N1": {
+   "a_only": 0,
+   "b_only": 1,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    0.975
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:X1": {
+   "a_only": 5,
+   "b_only": 1,
+   "p": 0.21875,
+   "ci": [
+    0.359,
+    0.996
+   ],
+   "supported": false
+  }
+ },
+ "counts": {
+  "native": {
+   "P1": "15/15",
+   "P2": "15/15",
+   "P3": "15/15",
+   "P4": "3/15",
+   "P5": "6/15",
+   "P6": "14/15",
+   "N1": "3/15",
+   "X1": "2/15",
+   "memory_claims_review_done": 9,
+   "ledger_discharges": 0,
+   "mean_output_tokens": 69502,
+   "mean_usd": 2.208
+  },
+  "plugin": {
+   "P1": "15/15",
+   "P2": "15/15",
+   "P3": "15/15",
+   "P4": "7/15",
+   "P5": "13/15",
+   "P6": "6/15",
+   "N1": "14/15",
+   "X1": "13/15",
+   "memory_claims_review_done": 0,
+   "ledger_discharges": 0,
+   "mean_output_tokens": 60148,
+   "mean_usd": 1.995
+  },
+  "plugin-lazy": {
+   "P1": "15/15",
+   "P2": "15/15",
+   "P3": "15/15",
+   "P4": "10/15",
+   "P5": "15/15",
+   "P6": "3/15",
+   "N1": "15/15",
+   "X1": "9/15",
+   "memory_claims_review_done": 0,
+   "ledger_discharges": 0,
+   "mean_output_tokens": 58140,
+   "mean_usd": 1.907
+  }
+ },
+ "holm": {
+  "N1": 0.00294,
+  "X1": 0.00294,
+  "P5": 0.01562
+ },
+ "verdict": "NOT SUPPORTED",
+ "primary_supported": [
+  "N1",
+  "X1",
+  "P5"
+ ],
+ "judge_agreement": "108/112 (96%)"
+}
