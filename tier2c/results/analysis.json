@@ -1,0 +1,297 @@
+{
+ "n_pairs": 5,
+ "cells": {
+  "plugin_vs_native:P1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:P2": {
+   "a_only": 1,
+   "b_only": 1,
+   "p": 1.0,
+   "ci": [
+    0.013,
+    0.987
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:P3": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:P4": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:P5": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:P6": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:N1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:X1": {
+   "a_only": 3,
+   "b_only": 0,
+   "p": 0.25,
+   "ci": [
+    0.292,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P2": {
+   "a_only": 1,
+   "b_only": 1,
+   "p": 1.0,
+   "ci": [
+    0.013,
+    0.987
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P3": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P4": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P5": {
+   "a_only": 0,
+   "b_only": 2,
+   "p": 0.5,
+   "ci": [
+    0.0,
+    0.842
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P6": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:N1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:X1": {
+   "a_only": 2,
+   "b_only": 0,
+   "p": 0.5,
+   "ci": [
+    0.158,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P2": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P3": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P4": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P5": {
+   "a_only": 2,
+   "b_only": 0,
+   "p": 0.5,
+   "ci": [
+    0.158,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P6": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:N1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:X1": {
+   "a_only": 2,
+   "b_only": 1,
+   "p": 1.0,
+   "ci": [
+    0.094,
+    0.992
+   ],
+   "supported": false
+  }
+ },
+ "counts": {
+  "native": {
+   "P1": "5/5",
+   "P2": "4/5",
+   "P3": "5/5",
+   "P4": "5/5",
+   "P5": "5/5",
+   "P6": "5/5",
+   "N1": "5/5",
+   "X1": "0/5",
+   "memory_claims_review_done": 4,
+   "ledger_discharges": 0,
+   "mean_output_tokens": 100186,
+   "mean_usd": 0.0
+  },
+  "plugin": {
+   "P1": "5/5",
+   "P2": "4/5",
+   "P3": "5/5",
+   "P4": "5/5",
+   "P5": "5/5",
+   "P6": "5/5",
+   "N1": "5/5",
+   "X1": "3/5",
+   "memory_claims_review_done": 1,
+   "ledger_discharges": 0,
+   "mean_output_tokens": 79280,
+   "mean_usd": 0.0
+  },
+  "plugin-lazy": {
+   "P1": "5/5",
+   "P2": "4/5",
+   "P3": "5/5",
+   "P4": "5/5",
+   "P5": "3/5",
+   "P6": "5/5",
+   "N1": "5/5",
+   "X1": "2/5",
+   "memory_claims_review_done": 5,
+   "ledger_discharges": 0,
+   "mean_output_tokens": 76927,
+   "mean_usd": 0.0
+  }
+ },
+ "holm": {
+  "X1": 0.75,
+  "N1": 1.0,
+  "P5": 1.0
+ },
+ "verdict": "DESCRIPTIVE (not a confirmatory test)",
+ "primary_supported": [],
+ "judge_agreement": "31/32 (97%)"
+}

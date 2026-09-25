@@ -1,1 +1,3 @@
 # Tier 2b deviations (empty at pre-registration)
+- D-plugin-edit (2026-09-25 ~09:35–09:37 local): plugin/driftledger/cli.py briefly contained an additive, unused `codex-setup` subcommand (no existing code path changed) while runs were live; reverted; plugin tree SHA-256 re-verified = 72f7feee…8ce0. Product work moved to a separate release folder.
+- D-metric (2026-09-25): the secondary machine metric 'memory claims review done' (score.py DONE_CLAIM regex) produces false positives on conditional phrasing; withdrawn for all tiers; to be replaced by a blinded judgment of memory snapshots (reported separately, labeled post-hoc).
