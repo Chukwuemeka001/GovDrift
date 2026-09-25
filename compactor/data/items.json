@@ -1,0 +1,38 @@
+[
+ {
+  "index": 1,
+  "item": "Mission: local NCLEX-PN (Canadian RPN) remediation-plan CLI from missed-question tags."
+ },
+ {
+  "index": 2,
+  "item": "Python stdlib only, local, no network."
+ },
+ {
+  "index": 3,
+  "item": "Plain JSON files, no database (owner edits journal on phone)."
+ },
+ {
+  "index": 4,
+  "item": "Never include paid-qbank question text, even paraphrased."
+ },
+ {
+  "index": 5,
+  "item": "All plan wording within PN scope (reinforce/monitor/report/follow care plan)."
+ },
+ {
+  "index": 6,
+  "item": "Gamification/streaks/badges/leaderboards PARKED; ONE exception: a single 'days studied in a row' counter."
+ },
+ {
+  "index": 7,
+  "item": "OWED: a person with nursing background must review every plan template's scope wording before the study group sees it. Automated tests are NOT this review. Only the owner can say it is done."
+ },
+ {
+  "index": 8,
+  "item": "Do not package or publish or push to GitHub."
+ },
+ {
+  "index": 9,
+  "item": "Owner postponed showing the study group this week (the review is still owed)."
+ }
+]

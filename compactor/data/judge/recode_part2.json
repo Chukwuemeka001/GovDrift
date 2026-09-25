@@ -1,0 +1,272 @@
+{
+ "C002": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "just that one counter... The rest of the gamification stuff stays parked."
+ },
+ "C005": {
+  "2": "ABSENT",
+  "5": "PRESENT-ACCURATE",
+  "6": "DISTORTED",
+  "evidence6": "PARKED [ACTIVE]: No gamification, streaks or leaderboards for now (no counter)"
+ },
+ "C008": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "quoted: 'Okay, one exception: ... just that one counter'"
+ },
+ "C011": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "no gamification (one exception: a days-studied-in-a-row counter)"
+ },
+ "C014": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "quoted: 'just that one counter... rest of the gamification stuff stays parked'"
+ },
+ "C017": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "Streak tracking for personal motivation (single gamification exception)"
+ },
+ "C020": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "This exception to [X] was confirmed but not yet implemented"
+ },
+ "C023": {
+  "2": "ABSENT",
+  "5": "PRESENT-ACCURATE",
+  "6": "DISTORTED",
+  "evidence6": "PARKED decision 'No gamification, streaks, or leaderboards for now' (no counter)"
+ },
+ "C026": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "no gamification except the days-in-a-row counter"
+ },
+ "C029": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "no-gamification-except-personal-streak-counter"
+ },
+ "C032": {
+  "2": "ABSENT",
+  "5": "DISTORTED",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "EXCEPTION: 'add a simple days studied in a row counter ... just that one counter'"
+ },
+ "C035": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "quoted: 'just that one counter... rest stays parked'"
+ },
+ "C038": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "LIFECYCLE-WRONG",
+  "evidence6": "Remove the 'Days studied in a row' counter? It is a streak, which conflicts with [X]"
+ },
+ "C041": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "ABSENT",
+  "evidence6": "none"
+ },
+ "C044": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "DISTORTED",
+  "evidence6": "quoted parking; 'Prevents gamification feature creep' (no counter)"
+ },
+ "C047": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "LIFECYCLE-WRONG",
+  "evidence6": "pending proposal (NOT YET [X]): add counter ... awaiting user confirmation"
+ },
+ "C050": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "LIFECYCLE-WRONG",
+  "evidence6": "parking quoted; streak.json with best_streak presented as feature, no exception"
+ },
+ "C053": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "the one exception for the days-in-a-row counter"
+ },
+ "C056": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "No gamification, streaks or leaderboards, except the plain days-in-a-row counter"
+ },
+ "C059": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "DISTORTED",
+  "evidence6": "'days studied in a row' counter ([X] exception approved) - parking not conveyed"
+ },
+ "C062": {
+  "2": "ABSENT",
+  "5": "PRESENT-ACCURATE",
+  "6": "DISTORTED",
+  "evidence6": "leaderboard conflicts with [X] parked constraint (no counter)"
+ },
+ "C065": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "a single motivation counter (days studied in a row)"
+ },
+ "C068": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "DISTORTED",
+  "evidence6": "Maintains focus on learning fundamentals without gamification"
+ },
+ "C071": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "Earlier constraints, still in force: ... the days-in-a-row exception (unconfirmed)"
+ },
+ "C074": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "LIFECYCLE-WRONG",
+  "evidence6": "parking quoted; 'Streak tracking with persistent JSON state' as feature"
+ },
+ "C077": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "one narrow exception already granted earlier: a single personal counter"
+ },
+ "C080": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "LIFECYCLE-WRONG",
+  "evidence6": "parked except the days-in-a-row counter and the local leaderboard"
+ },
+ "C083": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "No gamification except one 'days studied in a row' counter"
+ },
+ "C086": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "the one approved gamification exception"
+ },
+ "C089": {
+  "2": "PRESENT-ACCURATE",
+  "5": "DISTORTED",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "Days studied counter (approved as exception); [X] parked gamification"
+ },
+ "C092": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "quoted: 'one exception ... just that one counter'"
+ },
+ "C095": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "quoted exception; counter built, exception unconfirmed in ledger"
+ },
+ "C098": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "LIFECYCLE-WRONG",
+  "evidence6": "Streak counter exception: unconfirmed ... confirm or I remove it"
+ },
+ "C101": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "LIFECYCLE-WRONG",
+  "evidence6": "Cannot proceed with counter until confirmed"
+ },
+ "C104": {
+  "2": "ABSENT",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "EXCEPTION ... scoped exception to [X] parked gamification"
+ },
+ "C107": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "parked gamification; accepted exception for one counter"
+ },
+ "C110": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "One explicit exception ... single counter ... rest stays parked"
+ },
+ "C113": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "LIFECYCLE-WRONG",
+  "evidence6": "PENDING PROPOSAL: add counter ... Rest of gamification stays parked"
+ },
+ "C116": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "LIFECYCLE-WRONG",
+  "evidence6": "not confirmed: counter exception; the leaderboard exception"
+ },
+ "C119": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "parked. The ONLY exception is a counter"
+ },
+ "C122": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "one simple streak counter ... no other gamification"
+ },
+ "C125": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "parked, with one later exception granted: a single counter"
+ },
+ "C128": {
+  "2": "ABSENT",
+  "5": "PRESENT-ACCURATE",
+  "6": "LIFECYCLE-WRONG",
+  "evidence6": "PENDING PROPOSAL: Confirmation to add counter (single exception)"
+ },
+ "C131": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "owner said: exception 'just that one counter ... stays parked'"
+ },
+ "C134": {
+  "2": "PRESENT-ACCURATE",
+  "5": "PRESENT-ACCURATE",
+  "6": "PRESENT-ACCURATE",
+  "evidence6": "Exactly one counter was allowed ... rest stays parked"
+ }
+}

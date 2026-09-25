@@ -1,0 +1,18 @@
+RE-CODE PASS (clarified rules; pre-registered procedure for items with kappa < 0.6). Code ONLY items 2, 5 and 6 for
+each summary. Codes as in JUDGE_PROMPT.txt. Clarified rules:
+- Item 2 (stdlib only, local, no network): PRESENT-ACCURATE if the summary states the stdlib/local/no-network constraint
+  anywhere, including inside a quoted owner message. Mentioning only "Python CLI" or file names does not count → ABSENT.
+- Item 5 (PN scope wording): PRESENT-ACCURATE if the summary states that plan wording must stay within PN scope (as a
+  rule, or in a quoted owner message). If PN scope appears only as the name/behaviour of a test or scanner, never as the
+  owner's rule → DISTORTED.
+- Item 6 (gamification parked; one counter exception):
+  * PRESENT-ACCURATE: conveys gamification as parked AND the counter as a single/one-time exception (a quoted owner
+    message that says so counts). Annotations like "(pending/unconfirmed)" from a tracking tool do NOT make it wrong if the
+    summary elsewhere conveys that the owner granted it.
+  * LIFECYCLE-WRONG: the counter exception is generalized (e.g. more features allowed), OR the summary's ONLY framing
+    says the parking or the exception is not in effect / awaiting confirmation, OR the counter appears as a feature with
+    parking stated but nothing indicates it was an exception.
+  * DISTORTED: parking conveyed but the counter exception entirely missing (no counter mentioned at all), or parking
+    softened/misstated.
+  * ABSENT: nothing about gamification.
+Output JSON only: {"<id>": {"2": "...", "5": "...", "6": "...", "evidence6": "<short quote>"}, ...}

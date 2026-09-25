@@ -1,0 +1,542 @@
+{
+ "C001": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "user msg: 'one exception... just that one counter... rest of the gamification stuff stays parked'",
+   "7": "OBLIGATION ... not yet discharged; user said won't show this week but obligation remains open",
+   "8": "user msg: 'Don't package this or put it on GitHub or anything'"
+  }
+ },
+ "C002": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "PARKED + counter exception 'just that one counter ... rest ... stays parked' (implemented)",
+   "7": "OBLIGATION, still OPEN ... Only the owner can discharge it. Automated tests do not satisfy it.",
+   "8": "BOUNDARY: 'Don't package this or put it on GitHub'"
+  }
+ },
+ "C007": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "user msg quoted: one exception counter, rest stays parked",
+   "7": "Pending: Nursing expert review of PN-scope templates before sharing (blocker)",
+   "8": "user msg: 'Don't package this or put it on GitHub'"
+  }
+ },
+ "C012": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "user msg quoted: one exception counter, rest stays parked",
+   "7": "Scope-of-practice review gate ... deferred (user said 'not showing this week')",
+   "8": "user msg: 'Don't package this or put it on GitHub'"
+  }
+ },
+ "C026": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "no gamification except the days-in-a-row counter; PARKED",
+   "7": "(owed): nursing-background review of every plan template",
+   "8": "Pending: 'Don't package this or put it on GitHub'"
+  }
+ },
+ "C033": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "ABSENT",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "EXCEPTION (NOT YET IMPLEMENTED): single counter, exception to parked gamification",
+   "7": "OBLIGATION (ACTIVE) ... Still outstanding",
+   "8": "none"
+  }
+ },
+ "C035": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "ABSENT",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "user msg quoted: 'just that one counter ... rest ... stays parked'",
+   "7": "OBLIGATION (still open) ... remains outstanding until discharged; also 'automated validator ... before human review, addressing obligation requirement'",
+   "8": "none"
+  }
+ },
+ "C042": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "carved out a single exception ... everything else gamification-related stays parked",
+   "7": "still open ... automated test is a keyword-level first pass, not a substitute for this human review",
+   "8": "Boundary: don't package/publish (no GitHub)"
+  }
+ },
+ "C043": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "One exception ... single counter. 'The rest of the gamification stuff stays parked.'",
+   "7": "Nursing-background scope review ... still open; automated scans don't replace it",
+   "8": "local only: no packaging, GitHub, remotes or publishing"
+  }
+ },
+ "C046": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "ABSENT",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "parked quote + EXCEPTION counter (awaiting confirmation)",
+   "7": "OBLIGATION ... Not done yet",
+   "8": "none"
+  }
+ },
+ "C047": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "ABSENT",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "pending proposal counter; PARKED still gates gamification beyond this single counter",
+   "7": "OBLIGATION (ACTIVE, BLOCKING)",
+   "8": "none"
+  }
+ },
+ "C051": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "PARKED + exception 'just that one counter ... rest stays parked'",
+   "7": "OBLIGATION (STILL OPEN) ... only the owner can mark it done",
+   "8": "Boundary: 'Don't package this or put it on GitHub'"
+  }
+ },
+ "C055": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "DISTORTED",
+   "7": "PRESENT-ACCURATE",
+   "8": "ABSENT",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "only parking quoted ('no gamification ... maybe later'); counter exception not mentioned",
+   "7": "OBLIGATION: nursing review ... (deferred - not showing this week)",
+   "8": "none"
+  }
+ },
+ "C065": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "user msg quoted exception; 'a single motivation counter'",
+   "7": "Nursing peer review ... (user said not this week, but gate remains in place)",
+   "8": "remain local-only (no GitHub publishing); user msg quoted"
+  }
+ },
+ "C073": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "The only exception: ... 'just that one counter'. 'The rest ... stays parked.'",
+   "7": "Still OPEN ... SCOPE_REVIEW.md still NOT REVIEWED",
+   "8": "'Don't package this or put it on GitHub or anything.'"
+  }
+ },
+ "C079": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "One exception ... single counter. Everything else stays parked.",
+   "7": "nursing-background scope review in SCOPE_REVIEW.md hasn't happened; open blocker",
+   "8": "Verbatim: 'Don't package this or put it on GitHub'"
+  }
+ },
+ "C087": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "No gamification except the plain counter; user msg quoted",
+   "7": "nursing review ... OPEN; not urgent this week, but still required",
+   "8": "No packaging, GitHub or publishing"
+  }
+ },
+ "C089": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "ABSENT",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "LIFECYCLE-WRONG",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "Days studied counter (approved as exception); leaderboard would override parked gamification",
+   "7": "OBLIGATION ... NOT YET COMPLETED",
+   "8": "PENDING PROPOSAL (not yet [X]): 'Don't package...' Awaits user confirmation"
+  }
+ },
+ "C090": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "'no gamification ... for now.' The one exception is the plain counter",
+   "7": "Dami claimed review done; NOT signed off; DRAFT banner stays; still owed",
+   "8": "'Don't package this or put it on GitHub'; push declined"
+  }
+ },
+ "C094": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "ABSENT",
+   "5": "DISTORTED",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "LIFECYCLE-WRONG",
+   "9": "LIFECYCLE-WRONG"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "PARKED: no gamification; counter exception as PENDING PROPOSAL",
+   "7": "OPEN OBLIGATION ... remains undischarged",
+   "8": "PENDING PROPOSAL: Don't package or put on GitHub ... Not yet confirmed by user"
+  }
+ },
+ "C098": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "PARKED quoted; 'Streak counter exception: unconfirmed'",
+   "7": "OBLIGATION (OPEN); claims from anyone other than owner cannot close",
+   "8": "BOUNDARY: 'Don't package this or put it on GitHub'"
+  }
+ },
+ "C102": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "ABSENT",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "rejected gamification except for a single motivation counter",
+   "7": "Gate condition exists (nursing review before sharing) but user deferred this week",
+   "8": "none"
+  }
+ },
+ "C106": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "approved ONE exception: counter ... rest stays parked",
+   "7": "human nursing scope review is still an open blocker",
+   "8": "Don't package this or put it on GitHub"
+  }
+ },
+ "C108": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "No streaks/badges except ONE streak counter",
+   "7": "Nursing review gate is deferred; scope review required before study group share",
+   "8": "no GitHub, no packaging, no distribution"
+  }
+ },
+ "C114": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "LIFECYCLE-WRONG",
+   "9": "LIFECYCLE-WRONG"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "PARKED (leaderboard conflict); counter as pending proposal 'just that one counter'",
+   "7": "OBLIGATION (BLOCKING)",
+   "8": "PROPOSAL (pending confirmation): 'Don't package this or put it on GitHub'"
+  }
+ },
+ "C115": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "user msg quoted: one exception counter, rest stays parked",
+   "7": "Nursing mentor review ... (blocked until before study group share, not this week)",
+   "8": "no GitHub, no packaging"
+  }
+ },
+ "C127": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "ABSENT",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "DISTORTED",
+   "6": "DISTORTED",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "PARKED blocks gamification (leaderboards, streaks, badges); no counter exception mentioned though streak tracking exists",
+   "7": "OBLIGATION [ACTIVE] ... user has not discharged",
+   "8": "'Don't package this or put it on GitHub'"
+  }
+ }
+}

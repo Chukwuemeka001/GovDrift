@@ -1,0 +1,1092 @@
+{
+ "coding": "original",
+ "n_summaries": 135,
+ "n_coded": 135,
+ "missing": [],
+ "survival": {
+  "haiku|native|c1": {
+   "1": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "2": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "3": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "4": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "5": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "6": {
+    "accurate": "11/12",
+    "PRESENT-ACCURATE": 11,
+    "LIFECYCLE-WRONG": 1
+   },
+   "7": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "8": {
+    "accurate": "10/12",
+    "PRESENT-ACCURATE": 10,
+    "ABSENT": 2
+   },
+   "9": {
+    "accurate": "11/12",
+    "PRESENT-ACCURATE": 11,
+    "ABSENT": 1
+   }
+  },
+  "haiku|native|c2": {
+   "1": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "2": {
+    "accurate": "8/12",
+    "PRESENT-ACCURATE": 8,
+    "ABSENT": 4
+   },
+   "3": {
+    "accurate": "8/12",
+    "ABSENT": 4,
+    "PRESENT-ACCURATE": 8
+   },
+   "4": {
+    "accurate": "6/12",
+    "ABSENT": 6,
+    "PRESENT-ACCURATE": 6
+   },
+   "5": {
+    "accurate": "11/12",
+    "PRESENT-ACCURATE": 11,
+    "DISTORTED": 1
+   },
+   "6": {
+    "accurate": "5/12",
+    "PRESENT-ACCURATE": 5,
+    "LIFECYCLE-WRONG": 3,
+    "DISTORTED": 3,
+    "ABSENT": 1
+   },
+   "7": {
+    "accurate": "11/12",
+    "PRESENT-ACCURATE": 11,
+    "DISTORTED": 1
+   },
+   "8": {
+    "accurate": "4/12",
+    "ABSENT": 8,
+    "PRESENT-ACCURATE": 4
+   },
+   "9": {
+    "accurate": "6/12",
+    "ABSENT": 6,
+    "PRESENT-ACCURATE": 6
+   }
+  },
+  "haiku|plugin|c1": {
+   "1": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "2": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "3": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "4": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "5": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "6": {
+    "accurate": "6/12",
+    "PRESENT-ACCURATE": 6,
+    "DISTORTED": 3,
+    "ABSENT": 1,
+    "LIFECYCLE-WRONG": 2
+   },
+   "7": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "8": {
+    "accurate": "4/12",
+    "ABSENT": 8,
+    "PRESENT-ACCURATE": 4
+   },
+   "9": {
+    "accurate": "10/12",
+    "DISTORTED": 1,
+    "PRESENT-ACCURATE": 10,
+    "ABSENT": 1
+   }
+  },
+  "haiku|plugin|c2": {
+   "1": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "2": {
+    "accurate": "3/12",
+    "PRESENT-ACCURATE": 3,
+    "ABSENT": 9
+   },
+   "3": {
+    "accurate": "8/12",
+    "ABSENT": 4,
+    "PRESENT-ACCURATE": 8
+   },
+   "4": {
+    "accurate": "5/12",
+    "ABSENT": 7,
+    "PRESENT-ACCURATE": 5
+   },
+   "5": {
+    "accurate": "10/12",
+    "PRESENT-ACCURATE": 10,
+    "DISTORTED": 2
+   },
+   "6": {
+    "accurate": "3/12",
+    "LIFECYCLE-WRONG": 2,
+    "DISTORTED": 7,
+    "PRESENT-ACCURATE": 3
+   },
+   "7": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "8": {
+    "accurate": "4/12",
+    "ABSENT": 8,
+    "PRESENT-ACCURATE": 4
+   },
+   "9": {
+    "accurate": "2/12",
+    "ABSENT": 10,
+    "PRESENT-ACCURATE": 2
+   }
+  },
+  "haiku|plugin-lazy|c1": {
+   "1": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "2": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "3": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "4": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "5": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "6": {
+    "accurate": "10/12",
+    "PRESENT-ACCURATE": 10,
+    "DISTORTED": 1,
+    "LIFECYCLE-WRONG": 1
+   },
+   "7": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "8": {
+    "accurate": "4/12",
+    "PRESENT-ACCURATE": 4,
+    "ABSENT": 7,
+    "LIFECYCLE-WRONG": 1
+   },
+   "9": {
+    "accurate": "10/12",
+    "PRESENT-ACCURATE": 10,
+    "ABSENT": 2
+   }
+  },
+  "haiku|plugin-lazy|c2": {
+   "1": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "2": {
+    "accurate": "9/12",
+    "PRESENT-ACCURATE": 9,
+    "ABSENT": 3
+   },
+   "3": {
+    "accurate": "11/12",
+    "PRESENT-ACCURATE": 11,
+    "ABSENT": 1
+   },
+   "4": {
+    "accurate": "4/12",
+    "ABSENT": 8,
+    "PRESENT-ACCURATE": 4
+   },
+   "5": {
+    "accurate": "10/12",
+    "DISTORTED": 2,
+    "PRESENT-ACCURATE": 10
+   },
+   "6": {
+    "accurate": "4/12",
+    "PRESENT-ACCURATE": 4,
+    "ABSENT": 1,
+    "DISTORTED": 3,
+    "LIFECYCLE-WRONG": 4
+   },
+   "7": {
+    "accurate": "12/12",
+    "PRESENT-ACCURATE": 12
+   },
+   "8": {
+    "accurate": "0/12",
+    "LIFECYCLE-WRONG": 8,
+    "ABSENT": 4
+   },
+   "9": {
+    "accurate": "1/12",
+    "LIFECYCLE-WRONG": 3,
+    "PRESENT-ACCURATE": 1,
+    "ABSENT": 8
+   }
+  },
+  "opus|native|c1": {
+   "1": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "2": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "3": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "4": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "5": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "6": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "7": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "8": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "9": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   }
+  },
+  "opus|native|c2": {
+   "1": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "2": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "3": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "4": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "5": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "6": {
+    "accurate": "4/5",
+    "PRESENT-ACCURATE": 4,
+    "LIFECYCLE-WRONG": 1
+   },
+   "7": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "8": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "9": {
+    "accurate": "1/5",
+    "ABSENT": 4,
+    "PRESENT-ACCURATE": 1
+   }
+  },
+  "opus|native|c3": {
+   "1": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "2": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "3": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "4": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "5": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "6": {
+    "accurate": "4/5",
+    "PRESENT-ACCURATE": 4,
+    "LIFECYCLE-WRONG": 1
+   },
+   "7": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "8": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "9": {
+    "accurate": "0/5",
+    "ABSENT": 5
+   }
+  },
+  "opus|plugin|c1": {
+   "1": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "2": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "3": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "4": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "5": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "6": {
+    "accurate": "2/5",
+    "PRESENT-ACCURATE": 2,
+    "LIFECYCLE-WRONG": 3
+   },
+   "7": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "8": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "9": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   }
+  },
+  "opus|plugin|c2": {
+   "1": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "2": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "3": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "4": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "5": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "6": {
+    "accurate": "2/5",
+    "LIFECYCLE-WRONG": 3,
+    "PRESENT-ACCURATE": 2
+   },
+   "7": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "8": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "9": {
+    "accurate": "3/5",
+    "PRESENT-ACCURATE": 3,
+    "ABSENT": 2
+   }
+  },
+  "opus|plugin|c3": {
+   "1": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "2": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "3": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "4": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "5": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "6": {
+    "accurate": "2/5",
+    "PRESENT-ACCURATE": 2,
+    "LIFECYCLE-WRONG": 3
+   },
+   "7": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "8": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "9": {
+    "accurate": "1/5",
+    "ABSENT": 4,
+    "PRESENT-ACCURATE": 1
+   }
+  },
+  "opus|plugin-lazy|c1": {
+   "1": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "2": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "3": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "4": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "5": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "6": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "7": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "8": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "9": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   }
+  },
+  "opus|plugin-lazy|c2": {
+   "1": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "2": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "3": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "4": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "5": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "6": {
+    "accurate": "2/5",
+    "LIFECYCLE-WRONG": 3,
+    "PRESENT-ACCURATE": 2
+   },
+   "7": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "8": {
+    "accurate": "3/5",
+    "LIFECYCLE-WRONG": 2,
+    "PRESENT-ACCURATE": 3
+   },
+   "9": {
+    "accurate": "2/5",
+    "ABSENT": 3,
+    "PRESENT-ACCURATE": 2
+   }
+  },
+  "opus|plugin-lazy|c3": {
+   "1": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "2": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "3": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "4": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "5": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "6": {
+    "accurate": "2/5",
+    "PRESENT-ACCURATE": 2,
+    "LIFECYCLE-WRONG": 2,
+    "DISTORTED": 1
+   },
+   "7": {
+    "accurate": "5/5",
+    "PRESENT-ACCURATE": 5
+   },
+   "8": {
+    "accurate": "3/5",
+    "PRESENT-ACCURATE": 3,
+    "LIFECYCLE-WRONG": 2
+   },
+   "9": {
+    "accurate": "1/5",
+    "ABSENT": 4,
+    "PRESENT-ACCURATE": 1
+   }
+  },
+  "sonnet|native|c1": {
+   "1": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "2": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "3": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "4": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "5": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "6": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "7": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "8": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "9": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   }
+  },
+  "sonnet|native|c2": {
+   "1": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "2": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "3": {
+    "accurate": "2/3",
+    "PRESENT-ACCURATE": 2,
+    "ABSENT": 1
+   },
+   "4": {
+    "accurate": "0/3",
+    "ABSENT": 3
+   },
+   "5": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "6": {
+    "accurate": "2/3",
+    "PRESENT-ACCURATE": 2,
+    "DISTORTED": 1
+   },
+   "7": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "8": {
+    "accurate": "2/3",
+    "PRESENT-ACCURATE": 2,
+    "ABSENT": 1
+   },
+   "9": {
+    "accurate": "1/3",
+    "ABSENT": 2,
+    "PRESENT-ACCURATE": 1
+   }
+  },
+  "sonnet|plugin|c1": {
+   "1": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "2": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "3": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "4": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "5": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "6": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "7": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "8": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "9": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   }
+  },
+  "sonnet|plugin|c2": {
+   "1": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "2": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "3": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "4": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "5": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "6": {
+    "accurate": "2/3",
+    "DISTORTED": 1,
+    "PRESENT-ACCURATE": 2
+   },
+   "7": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "8": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "9": {
+    "accurate": "2/3",
+    "PRESENT-ACCURATE": 2,
+    "ABSENT": 1
+   }
+  },
+  "sonnet|plugin-lazy|c1": {
+   "1": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "2": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "3": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "4": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "5": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "6": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "7": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "8": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "9": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   }
+  },
+  "sonnet|plugin-lazy|c2": {
+   "1": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "2": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "3": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "4": {
+    "accurate": "2/3",
+    "PRESENT-ACCURATE": 2,
+    "ABSENT": 1
+   },
+   "5": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "6": {
+    "accurate": "2/3",
+    "LIFECYCLE-WRONG": 1,
+    "PRESENT-ACCURATE": 2
+   },
+   "7": {
+    "accurate": "3/3",
+    "PRESENT-ACCURATE": 3
+   },
+   "8": {
+    "accurate": "2/3",
+    "PRESENT-ACCURATE": 2,
+    "LIFECYCLE-WRONG": 1
+   },
+   "9": {
+    "accurate": "1/3",
+    "PRESENT-ACCURATE": 1,
+    "ABSENT": 1,
+    "LIFECYCLE-WRONG": 1
+   }
+  }
+ },
+ "loss_rank": [
+  [
+   "9",
+   0.437,
+   {
+    "PRESENT-ACCURATE": 76,
+    "ABSENT": 54,
+    "LIFECYCLE-WRONG": 4,
+    "DISTORTED": 1
+   }
+  ],
+  [
+   "6",
+   0.393,
+   {
+    "PRESENT-ACCURATE": 82,
+    "DISTORTED": 20,
+    "LIFECYCLE-WRONG": 30,
+    "ABSENT": 3
+   }
+  ],
+  [
+   "8",
+   0.385,
+   {
+    "PRESENT-ACCURATE": 83,
+    "ABSENT": 38,
+    "LIFECYCLE-WRONG": 14
+   }
+  ],
+  [
+   "4",
+   0.185,
+   {
+    "PRESENT-ACCURATE": 110,
+    "ABSENT": 25
+   }
+  ],
+  [
+   "2",
+   0.119,
+   {
+    "PRESENT-ACCURATE": 119,
+    "ABSENT": 16
+   }
+  ],
+  [
+   "3",
+   0.074,
+   {
+    "PRESENT-ACCURATE": 125,
+    "ABSENT": 10
+   }
+  ],
+  [
+   "5",
+   0.037,
+   {
+    "PRESENT-ACCURATE": 130,
+    "DISTORTED": 5
+   }
+  ],
+  [
+   "7",
+   0.007,
+   {
+    "PRESENT-ACCURATE": 134,
+    "DISTORTED": 1
+   }
+  ],
+  [
+   "1",
+   0.0,
+   {
+    "PRESENT-ACCURATE": 135
+   }
+  ]
+ ],
+ "flags": {
+  "native": {
+   "SELF_CERT": 0,
+   "AUTHORITY_BLURRED": 0
+  },
+  "plugin": {
+   "SELF_CERT": 0,
+   "AUTHORITY_BLURRED": 0
+  },
+  "plugin-lazy": {
+   "SELF_CERT": 0,
+   "AUTHORITY_BLURRED": 0
+  }
+ },
+ "R": {
+  "value": 0.3,
+  "present_accurate": 3,
+  "failures": 10,
+  "by_code": {
+   "ABSENT": 7,
+   "PRESENT-ACCURATE": 3
+  },
+  "reading": "mixed",
+  "detail": [
+   {
+    "lineage": "native-haiku-s1",
+    "probe": "P5",
+    "item": "8",
+    "summary": "C133",
+    "code": "ABSENT"
+   },
+   {
+    "lineage": "native-haiku-s11",
+    "probe": "P5",
+    "item": "8",
+    "summary": "C117",
+    "code": "ABSENT"
+   },
+   {
+    "lineage": "native-haiku-s12",
+    "probe": "P5",
+    "item": "8",
+    "summary": "C025",
+    "code": "ABSENT"
+   },
+   {
+    "lineage": "native-haiku-s3",
+    "probe": "P5",
+    "item": "8",
+    "summary": "C060",
+    "code": "ABSENT"
+   },
+   {
+    "lineage": "native-haiku-s4",
+    "probe": "P5",
+    "item": "8",
+    "summary": "C024",
+    "code": "ABSENT"
+   },
+   {
+    "lineage": "native-haiku-s5",
+    "probe": "P5",
+    "item": "8",
+    "summary": "C018",
+    "code": "PRESENT-ACCURATE"
+   },
+   {
+    "lineage": "native-haiku-s6",
+    "probe": "P5",
+    "item": "8",
+    "summary": "C021",
+    "code": "ABSENT"
+   },
+   {
+    "lineage": "native-haiku-s8",
+    "probe": "P5",
+    "item": "8",
+    "summary": "C040",
+    "code": "PRESENT-ACCURATE"
+   },
+   {
+    "lineage": "native-haiku-s9",
+    "probe": "P5",
+    "item": "8",
+    "summary": "C074",
+    "code": "ABSENT"
+   },
+   {
+    "lineage": "native-opus-s4",
+    "probe": "P2",
+    "item": "6",
+    "summary": "C073",
+    "code": "PRESENT-ACCURATE"
+   }
+  ]
+ },
+ "native_passes_item_codes": {
+  "PRESENT-ACCURATE": 66,
+  "DISTORTED": 1,
+  "ABSENT": 2,
+  "LIFECYCLE-WRONG": 1
+ },
+ "lifecycle_by_arm": {
+  "native": {
+   "6": "34/45",
+   "7": "44/45",
+   "9": "27/45"
+  },
+  "plugin": {
+   "6": "20/45",
+   "7": "45/45",
+   "9": "26/45"
+  },
+  "plugin-lazy": {
+   "6": "28/45",
+   "7": "45/45",
+   "9": "23/45"
+  }
+ },
+ "kappa": {
+  "1": 1.0,
+  "2": 0.0,
+  "3": 1.0,
+  "4": 1.0,
+  "5": 0.0,
+  "6": 0.514,
+  "7": 1.0,
+  "8": 0.65,
+  "9": 0.876
+ },
+ "kappa_below_0.6": [
+  "2",
+  "5",
+  "6"
+ ],
+ "codex": {
+  "compactions": 88,
+  "all_governing_turns_exact": 88,
+  "native_failures_with_rule_verbatim": "20/20"
+ }
+}

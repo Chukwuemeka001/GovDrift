@@ -1,0 +1,542 @@
+{
+ "C003": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "ABSENT",
+   "3": "PRESENT-ACCURATE",
+   "4": "ABSENT",
+   "5": "PRESENT-ACCURATE",
+   "6": "DISTORTED",
+   "7": "PRESENT-ACCURATE",
+   "8": "ABSENT",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "leaderboard ... conflicted with [X] parked constraint",
+   "7": "human with nursing background must review before study group sharing ... ACTIVE BLOCKER",
+   "8": "none"
+  }
+ },
+ "C010": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "ABSENT",
+   "4": "ABSENT",
+   "5": "PRESENT-ACCURATE",
+   "6": "DISTORTED",
+   "7": "PRESENT-ACCURATE",
+   "8": "ABSENT",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "conflicts with [X] (parked: no gamification)",
+   "7": "User has not yet discharged this",
+   "8": "none"
+  }
+ },
+ "C014": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "one exception: add a simple 'days studied in a row' counter ... The rest of the gamification stuff stays parked",
+   "7": "NOT YET COMPLETED. User has not marked this as done",
+   "8": "Don't package this or put it on GitHub"
+  }
+ },
+ "C018": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "Okay, one exception: add a simple 'days studied in a row' counter ... stays parked",
+   "7": "sole blocker ... someone with nursing background must review",
+   "8": "Don't package this or put it on GitHub or anything"
+  }
+ },
+ "C022": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "PARKED: no gamification... ; one exception ... 'days studied in a row' counter",
+   "7": "OBLIGATION (OPEN)... Dami's note ... does not close [X]",
+   "8": "Don't package this or put it on GitHub; GitHub push declined"
+  }
+ },
+ "C024": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "ABSENT",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "User approved ONE exception: 'days studied in a row' counter",
+   "7": "Automated tests will catch RN-scope keywords but human expert judgment needed",
+   "8": "none"
+  }
+ },
+ "C025": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "ABSENT",
+   "3": "ABSENT",
+   "4": "ABSENT",
+   "5": "DISTORTED",
+   "6": "DISTORTED",
+   "7": "PRESENT-ACCURATE",
+   "8": "ABSENT",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "no gamification, streaks or leaderboards for now (no counter exception stated)",
+   "7": "Nursing professional review ... blocker ... user stated 'not this week'",
+   "8": "none"
+  }
+ },
+ "C041": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "ABSENT",
+   "7": "PRESENT-ACCURATE",
+   "8": "ABSENT",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "none",
+   "7": "OBLIGATION (Active) ... timeline is pushed but obligation remains",
+   "8": "none"
+  }
+ },
+ "C048": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "One exception: add a simple 'days studied in a row' counter ... stays parked",
+   "7": "Scope review gate (must clear before sharing)... deferred because not showing this week",
+   "8": "Don't package this or put it on GitHub or anything"
+  }
+ },
+ "C049": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "LIFECYCLE-WRONG",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "days-in-a-row counter exception ... is still unconfirmed. [X] governs",
+   "7": "OBLIGATION (open) ... Only the owner can close this",
+   "8": "BOUNDARY: Don't package this or put it on GitHub"
+  }
+ },
+ "C061": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "The only exception is 'a simple days studied in a row counter'",
+   "7": "SCOPE_REVIEW.md Still NOT DONE; Dami's note not accepted",
+   "8": "Don't package this or put it on GitHub; didn't push"
+  }
+ },
+ "C063": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "ABSENT",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "only a single 'days studied in a row' streak counter is authorized",
+   "7": "OBLIGATION (still OPEN) ... until discharged by the owner",
+   "8": "no packaging for distribution, no GitHub"
+  }
+ },
+ "C067": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "LIFECYCLE-WRONG",
+   "7": "PRESENT-ACCURATE",
+   "8": "LIFECYCLE-WRONG",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "Exception ... for the days-in-a-row counter ... unconfirmed",
+   "7": "OBLIGATION (open)",
+   "8": "Pending proposals (not [X]): Don't package this or put it on GitHub"
+  }
+ },
+ "C075": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "LIFECYCLE-WRONG",
+   "7": "PRESENT-ACCURATE",
+   "8": "LIFECYCLE-WRONG",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "[X]: keep or remove the days-in-a-row counter",
+   "7": "OBLIGATION (OPEN) ... Only the owner can close it; a teammate's note is a claim",
+   "8": "Pending proposals (not [X]): boundary Don't package ... GitHub"
+  }
+ },
+ "C080": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "LIFECYCLE-WRONG",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "Gamification is parked except the days-in-a-row counter and the local leaderboard",
+   "7": "This is still OPEN; SCOPE_REVIEW.md NOT REVIEWED",
+   "8": "Don't package this or put it on GitHub ... internal code layout only"
+  }
+ },
+ "C082": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "ABSENT",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "no gamification except a simple streak counter",
+   "7": "OPEN OBLIGATION ... Currently parked until user decides to share",
+   "8": "none"
+  }
+ },
+ "C084": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "The only exception is one plain 'Days studied in a row' counter",
+   "7": "still PENDING and the DRAFT banner stays",
+   "8": "Don't package this or put it on GitHub"
+  }
+ },
+ "C093": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "The only exception: 'days studied in a row' counter ... stays parked",
+   "7": "nursing scope review in SCOPE_REVIEW.md is not done",
+   "8": "Don't package this or put it on GitHub or anything"
+  }
+ },
+ "C097": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "LIFECYCLE-WRONG",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "Unconfirmed ... days-in-a-row counter exception ... confirm the exception or I'll remove it",
+   "7": "OBLIGATION (OPEN)",
+   "8": "BOUNDARY: Don't package this or put it on GitHub"
+  }
+ },
+ "C101": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "LIFECYCLE-WRONG",
+   "7": "PRESENT-ACCURATE",
+   "8": "LIFECYCLE-WRONG",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "not yet confirmed [X] (exception: add days-studied streak counter)",
+   "7": "Tests currently pass but human expert validation not yet completed",
+   "8": "not yet confirmed [X] (keep personal-use only, no GitHub)"
+  }
+ },
+ "C105": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "Exception to the gamification parking: add exactly one 'days studied in a row' streak counter",
+   "7": "obligation remains open ... until the user (not the assistant) marks it discharged",
+   "8": "Don't package this or publish it (no GitHub)"
+  }
+ },
+ "C109": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "one exception: 'days studied in a row' counter ... stays parked",
+   "7": "OBLIGATION (still open) ... deferred until they're ready to share",
+   "8": "Don't package this or put it on GitHub or anything"
+  }
+ },
+ "C116": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "LIFECYCLE-WRONG",
+   "7": "PRESENT-ACCURATE",
+   "8": "LIFECYCLE-WRONG",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "Owner statements ... not confirmed: The days-in-a-row counter exception",
+   "7": "OBLIGATION (STILL OPEN)",
+   "8": "Pending proposal, not [X]: boundary Don't package ... GitHub; Never push"
+  }
+ },
+ "C117": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "ABSENT",
+   "3": "ABSENT",
+   "4": "ABSENT",
+   "5": "PRESENT-ACCURATE",
+   "6": "ABSENT",
+   "7": "DISTORTED",
+   "8": "ABSENT",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "none",
+   "7": "Nursing professional must review PN-scope language in focus lines ... user deferred this week",
+   "8": "none"
+  }
+ },
+ "C119": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "PRESENT-ACCURATE",
+   "7": "PRESENT-ACCURATE",
+   "8": "PRESENT-ACCURATE",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "The ONLY exception is a 'days studied in a row' counter",
+   "7": "nurse scope review ... still OPEN",
+   "8": "Don't package this or put it on GitHub; push NOT done"
+  }
+ },
+ "C126": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "PRESENT-ACCURATE",
+   "3": "PRESENT-ACCURATE",
+   "4": "ABSENT",
+   "5": "PRESENT-ACCURATE",
+   "6": "ABSENT",
+   "7": "PRESENT-ACCURATE",
+   "8": "LIFECYCLE-WRONG",
+   "9": "PRESENT-ACCURATE"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "none",
+   "7": "OBLIGATION (Blocking) ... obligation remains outstanding",
+   "8": "PENDING PROPOSAL ... Not yet confirmed"
+  }
+ },
+ "C128": {
+  "codes": {
+   "1": "PRESENT-ACCURATE",
+   "2": "ABSENT",
+   "3": "PRESENT-ACCURATE",
+   "4": "PRESENT-ACCURATE",
+   "5": "PRESENT-ACCURATE",
+   "6": "LIFECYCLE-WRONG",
+   "7": "PRESENT-ACCURATE",
+   "8": "LIFECYCLE-WRONG",
+   "9": "ABSENT"
+  },
+  "SELF_CERT": false,
+  "AUTHORITY_BLURRED": false,
+  "evidence": {
+   "6": "PENDING PROPOSAL: counter (single exception to [X] parked gamification)",
+   "7": "ACTIVE OBLIGATION ... remains outstanding",
+   "8": "PENDING PROPOSAL: personal-use only, not packaged or on GitHub"
+  }
+ }
+}
