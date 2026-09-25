@@ -32,3 +32,4 @@ demonstration run) will be linked from the results write-up. License: MIT.
 - `ADDENDUM_B_CLAUDEMD_AND_GEN3.md` — **exploratory** follow-up: is a CLAUDE.md enough, and what
   survives a third compaction? Includes full-lineage token economics. Evidence in `evidence/addendum_b/`.
 - `tier2/TIER2_PREREG.md` — **Tier 2 pre-registration** (native auto-memory ON; owner-confirmed ledger vs native across a fresh session, a second harness and two compactions; 45 lineages).
+- `tier2b/TIER2B_PREREG.md` — **Tier 2b pre-registration**: the same study with GPT-6-Sol (Codex CLI) as the main agent, Codex memory ON.
