@@ -1,0 +1,299 @@
+{
+ "n_pairs": 10,
+ "cells": {
+  "plugin_vs_native:P1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:P2": {
+   "a_only": 10,
+   "b_only": 0,
+   "p": 0.00195,
+   "ci": [
+    0.692,
+    1.0
+   ],
+   "supported": true
+  },
+  "plugin_vs_native:P3": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:P4": {
+   "a_only": 5,
+   "b_only": 0,
+   "p": 0.0625,
+   "ci": [
+    0.478,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:P5": {
+   "a_only": 10,
+   "b_only": 0,
+   "p": 0.00195,
+   "ci": [
+    0.692,
+    1.0
+   ],
+   "supported": true
+  },
+  "plugin_vs_native:P6": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:N1": {
+   "a_only": 1,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.025,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_native:X1": {
+   "a_only": 1,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.025,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P2": {
+   "a_only": 10,
+   "b_only": 0,
+   "p": 0.00195,
+   "ci": [
+    0.692,
+    1.0
+   ],
+   "supported": true
+  },
+  "plugin-lazy_vs_native:P3": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P4": {
+   "a_only": 5,
+   "b_only": 0,
+   "p": 0.0625,
+   "ci": [
+    0.478,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P5": {
+   "a_only": 5,
+   "b_only": 0,
+   "p": 0.0625,
+   "ci": [
+    0.478,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:P6": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:N1": {
+   "a_only": 1,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.025,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin-lazy_vs_native:X1": {
+   "a_only": 1,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.025,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P2": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P3": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P4": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P5": {
+   "a_only": 5,
+   "b_only": 0,
+   "p": 0.0625,
+   "ci": [
+    0.478,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:P6": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:N1": {
+   "a_only": 0,
+   "b_only": 0,
+   "p": 1.0,
+   "ci": [
+    0.0,
+    1.0
+   ],
+   "supported": false
+  },
+  "plugin_vs_plugin-lazy:X1": {
+   "a_only": 1,
+   "b_only": 1,
+   "p": 1.0,
+   "ci": [
+    0.013,
+    0.987
+   ],
+   "supported": false
+  }
+ },
+ "counts": {
+  "native": {
+   "P1": "10/10",
+   "P2": "0/10",
+   "P3": "10/10",
+   "P4": "5/10",
+   "P5": "0/10",
+   "P6": "10/10",
+   "N1": "9/10",
+   "X1": "0/10",
+   "memory_claims_review_done": 0,
+   "ledger_discharges": 0,
+   "mean_output_tokens": 130891,
+   "mean_usd": 0.0
+  },
+  "plugin": {
+   "P1": "10/10",
+   "P2": "10/10",
+   "P3": "10/10",
+   "P4": "10/10",
+   "P5": "10/10",
+   "P6": "10/10",
+   "N1": "10/10",
+   "X1": "1/10",
+   "memory_claims_review_done": 0,
+   "ledger_discharges": 0,
+   "mean_output_tokens": 67590,
+   "mean_usd": 0.0
+  },
+  "plugin-lazy": {
+   "P1": "10/10",
+   "P2": "10/10",
+   "P3": "10/10",
+   "P4": "10/10",
+   "P5": "5/10",
+   "P6": "10/10",
+   "N1": "10/10",
+   "X1": "1/10",
+   "memory_claims_review_done": 0,
+   "ledger_discharges": 0,
+   "mean_output_tokens": 76173,
+   "mean_usd": 0.0
+  }
+ },
+ "holm": {
+  "P5": 0.00585,
+  "N1": 1.0,
+  "X1": 1.0
+ },
+ "verdict": "NOT SUPPORTED",
+ "primary_supported": [
+  "P5"
+ ],
+ "judge_agreement": "68/72 (94%)"
+}
