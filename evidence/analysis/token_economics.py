@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Token economics per arm — native vs packet (and the two controls).
+"""SUPERSEDED for token/turn counts by token_economics_v2.py (erratum 2026-09-26: usage was summed per record,
+not per assistant message id, overstating tokens and turns ~2.3x). Kept unchanged below for provenance.
+
+Token economics per arm — native vs packet (and the two controls).
 
 Measures, per lineage, POST-FORK only (from the first compact_boundary = the fork
 point, so the shared worker prefix is excluded and arms are comparable):

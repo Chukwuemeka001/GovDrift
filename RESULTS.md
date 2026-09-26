@@ -73,9 +73,9 @@ remain untested → Tier 2 arm E), scripted owner, n=15 pairs/cell, 2 generation
 
 ## Token economics (exploratory, added post-analysis)
 See `TOKEN_ECONOMICS.md`. Summary: the packet arm cost **25% less** than native
-($1.86 vs $2.48 per lineage, cheaper in 13/15 matched pairs, p=0.0074) while delivering
+($1.64 vs $2.20 per lineage at list price from deduplicated transcript usage — $1.86 vs $2.48 by the harness cost field; cheaper in 13/15 matched pairs, p=0.0074; token counts corrected 2026-09-26, see the erratum in `TOKEN_ECONOMICS.md`) while delivering
 only ≈2,400 tokens of banner+ledger — a ~30× return. The driver is ledger *presence*,
-not correctness: the scrambled arm is equally cheap (14/15 pairs, p=0.0010, −24.5%),
+not correctness: the scrambled arm is equally cheap (14/15 pairs, p=0.0010, −25.2%),
 because a governing document narrows scope regardless of whether it is true. The
 exception proves the danger: at the storage-temptation probe the scrambled arm spent
 **more** than native (19,108 vs 12,680 tokens) executing fabricated rules, and one
