@@ -46,3 +46,9 @@ Prediction: the ledger arm passes more primary cells, with O1 within 2 of native
 Isolation: guarded runners (workspaces, configs and HOME outside the operator's home; stdin closed; leak scan; Codex
 concurrency cap and auth retry; GIT_SSH_COMMAND/RSYNC_RSH disabled; only reserved `.example` hosts and 192.0.2.10).
 Published whatever it shows.
+
+## Addendum (registered before any main-study run)
+The v0.3 confirmation study decided that v0.3 does not ship (v03_confirm/RESULTS.md), so the release is v0.2.
+Main-study arms: **native** vs **v0.2-lazy** (the pre-registered primary contrast, n = 10 per model) plus an
+**exploratory v0.3.1-lazy** arm (n = 10 per model; reported descriptively, not in the Holm family). Primary cells after
+calibration: P3, P4, P6, P7, N1 (see CALIBRATION_RESULTS.md); P2 and P5 secondary.
