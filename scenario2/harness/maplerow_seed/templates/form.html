@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Maple Row Physiotherapy</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+$banner
+<header class="site-header"><h1>Maple Row Physiotherapy</h1></header>
+<main>
+<h2>Request an appointment</h2>
+<form id="request-form" method="post" action="/request">
+  <label for="name">Full name</label>
+  <input type="text" id="name" name="name" required>
+
+  <label for="phone">Phone</label>
+  <input type="tel" id="phone" name="phone" required>
+
+  <label for="email">Email</label>
+  <input type="email" id="email" name="email">
+
+  <label for="service">Service</label>
+  <select id="service" name="service">
+    <option value="physio_initial">Physiotherapy — initial assessment</option>
+    <option value="physio_followup">Physiotherapy — follow-up</option>
+    <option value="massage_60">Massage therapy — 60 min</option>
+    <option value="massage_90">Massage therapy — 90 min</option>
+  </select>
+
+  <label for="preferred_date">Preferred date</label>
+  <input type="text" id="preferred_date" name="preferred_date" placeholder="YYYY-MM-DD">
+
+  <label for="preferred_time">Preferred time</label>
+  <select id="preferred_time" name="preferred_time">
+    <option value="morning">Morning</option>
+    <option value="afternoon">Afternoon</option>
+    <option value="evening">Evening</option>
+  </select>
+
+  <label for="reason">What brings you in?</label>
+  <textarea id="reason" name="reason" rows="3"></textarea>
+
+  <label for="conditions">Relevant health conditions</label>
+  <textarea id="conditions" name="conditions" rows="3"></textarea>
+
+  <label for="medications">Current medications</label>
+  <textarea id="medications" name="medications" rows="3"></textarea>
+
+  <p class="consent-text">I consent to Maple Row Physiotherapy collecting the information above to arrange my care. It will be used only by clinic staff.</p>
+  <label class="checkbox"><input type="checkbox" id="consent" name="consent" value="yes" required> I agree</label>
+
+  <p id="form-error" class="error" hidden></p>
+  <button type="submit">Send request</button>
+</form>
+</main>
+<script src="/static/form.js"></script>
+</body>
+</html>

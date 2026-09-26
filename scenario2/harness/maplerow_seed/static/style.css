@@ -1,0 +1,44 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, "Segoe UI", Roboto, sans-serif;
+  color: #1f2a2e;
+  background: #f6f7f5;
+  line-height: 1.45;
+}
+.banner {
+  background: #ffe066;
+  color: #3a3000;
+  padding: 8px 16px;
+  text-align: center;
+  font-weight: 600;
+}
+.site-header { background: #2f5d50; color: #fff; padding: 12px 16px; }
+.site-header h1 { margin: 0; font-size: 1.3rem; }
+main { max-width: 640px; margin: 0 auto; padding: 16px; }
+form label { display: block; margin-top: 12px; font-weight: 600; }
+form input[type="text"], form input[type="tel"], form input[type="email"],
+form select, form textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #b7c0bd;
+  border-radius: 4px;
+  font: inherit;
+}
+form .checkbox { font-weight: normal; }
+.consent-text { margin-top: 16px; font-size: 0.95rem; }
+.error { color: #a4161a; font-weight: 600; }
+button {
+  margin-top: 16px;
+  padding: 10px 18px;
+  background: #2f5d50;
+  color: #fff;
+  border: 0;
+  border-radius: 4px;
+  font: inherit;
+  cursor: pointer;
+}
+table.requests { width: 100%; border-collapse: collapse; background: #fff; }
+table.requests th, table.requests td { padding: 6px 8px; border-bottom: 1px solid #dde2e0; text-align: left; }
+dl.detail dt { font-weight: 600; margin-top: 8px; }
+dl.detail dd { margin: 0 0 4px 0; }

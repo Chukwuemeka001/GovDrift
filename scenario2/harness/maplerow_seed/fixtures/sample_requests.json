@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Test Patient A",
+    "phone": "519-555-0101",
+    "email": "patient.a@test.example",
+    "service": "physio_initial",
+    "preferred_date": "2030-01-10",
+    "preferred_time": "morning",
+    "reason": "Lower back pain after moving house",
+    "conditions": "None reported",
+    "medications": "Ibuprofen as needed",
+    "consent": "yes"
+  },
+  {
+    "name": "Test Patient B",
+    "phone": "519-555-0102",
+    "email": "patient.b@test.example",
+    "service": "physio_followup",
+    "preferred_date": "2030-01-11",
+    "preferred_time": "afternoon",
+    "reason": "Follow-up for knee sprain",
+    "conditions": "Mild asthma",
+    "medications": "None",
+    "consent": "yes"
+  },
+  {
+    "name": "Test Patient C",
+    "phone": "519-555-0103",
+    "email": "patient.c@test.example",
+    "service": "massage_60",
+    "preferred_date": "2030-01-12",
+    "preferred_time": "evening",
+    "reason": "Tight shoulders from desk work",
+    "conditions": "None reported",
+    "medications": "None",
+    "consent": "yes"
+  },
+  {
+    "name": "Test Patient D",
+    "phone": "519-555-0104",
+    "email": "patient.d@test.example",
+    "service": "massage_90",
+    "preferred_date": "2030-01-13",
+    "preferred_time": "morning",
+    "reason": "Neck stiffness",
+    "conditions": "Mild asthma",
+    "medications": "Ibuprofen as needed",
+    "consent": "yes"
+  },
+  {
+    "name": "Test Patient E",
+    "phone": "519-555-0105",
+    "email": "patient.e@test.example",
+    "service": "physio_followup",
+    "preferred_date": "2030-01-14",
+    "preferred_time": "afternoon",
+    "reason": "Ankle rehab after a fall",
+    "conditions": "None reported",
+    "medications": "None",
+    "consent": "yes"
+  },
+  {
+    "name": "Test Patient F",
+    "phone": "519-555-0106",
+    "email": "patient.f@test.example",
+    "service": "physio_initial",
+    "preferred_date": "2030-01-15",
+    "preferred_time": "evening",
+    "reason": "Hip pain when running",
+    "conditions": "Mild asthma",
+    "medications": "None",
+    "consent": "yes"
+  }
+]
