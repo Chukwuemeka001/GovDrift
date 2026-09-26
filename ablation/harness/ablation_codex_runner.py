@@ -59,7 +59,14 @@ class AblCodexLineage(ar.AblMixin, codex_runner.CodexLineage):
         return sorted(glob.glob(os.path.join(self.cxhome, "sessions", "**", "*.jsonl"), recursive=True))
 
     def snapshot(self, label):
-        super().snapshot(label)
+        # D4: on resume a label may already exist; Codex memory .git objects are read-only, so re-copying fails.
+        import shutil
+        dst = os.path.join(self.base, "snapshots", label); os.makedirs(dst, exist_ok=True)
+        mem = os.path.join(self.cxhome, "memories")
+        if os.path.isdir(mem) and not os.path.exists(os.path.join(dst, "memory")):
+            shutil.copytree(mem, os.path.join(dst, "memory"), ignore=shutil.ignore_patterns(".git"))
+        agents = os.path.join(self.ws, "AGENTS.md")
+        if os.path.exists(agents): shutil.copy(agents, os.path.join(dst, "workspace_AGENTS.md"))
         L = self.ledger()
         if L.store.exists():
             import shutil; shutil.copy(L.store.path, os.path.join(self.base, "snapshots", label, "ledger_events.jsonl"))

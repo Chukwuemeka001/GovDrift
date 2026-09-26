@@ -12,3 +12,15 @@
   (abl-full-s1, abl-status-s10, abl-verbatim-s3, abl-flat-s4) and 6 groups were paused. The 401 occurred before any model
   output; on resume the interrupted work turn was re-sent (the owner prompt may appear twice in those threads).
   Groups were relaunched staggered to reduce refresh collisions.
+- D4 (harness, 2026-09-25 ~20:20 EDT): resuming fail-stopped Sol lineages crashed in the snapshot helper (re-copying
+  Codex memory's read-only .git objects into an existing snapshot). The Codex ablation runner's snapshot now skips an
+  existing memory snapshot and ignores .git (same fix as the Tier 2b extension). Snapshots are audit artifacts only; no
+  agent-facing behavior changed. Updated harness copy committed alongside.
+- D5 (Haiku arm VOIDED and re-run, found 2026-09-25 ~20:45 EDT): the Haiku runners were launched from a Python script
+  fed on stdin; child `claude -p` processes inherited that stdin and appended the launcher text (which names the arms and
+  the ablation runner) to EVERY owner prompt in 46/50 Haiku lineages (4 relaunched lineages were clean). Found during
+  blinding checks when an agent remarked on "an ablation-runner test harness" in a reply. All 50 Haiku lineages
+  (and their judged interim results) are void and preserved under results/ablation_void_haiku_stdin/ for audit; the
+  Haiku arm is re-run from scratch with stdin=/dev/null (launch_haiku_ablation.py). Sol lineages are unaffected (Codex
+  is invoked with stdin closed; checked: no launcher text in any Sol user message). Other studies checked: Tier 2/2b/2c,
+  Tier 2-fix, the pilot and the Opus v0.3 check contain no launcher text.
