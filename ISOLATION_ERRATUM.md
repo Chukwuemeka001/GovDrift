@@ -21,3 +21,12 @@ those mentions have been redacted from published bundles (commit 1f2d751).
 
 **Fix going forward.** Future Claude Code eval workspaces will live outside the operator's home directory, and the
 runner will fail if any instruction file outside the workspace is loaded.
+
+## Addendum — Codex runs (found 2026-09-26)
+Codex CLI reads the user-level skills directory (`$HOME/.agents/skills`) regardless of `CODEX_HOME`. Every Codex
+(GPT-6-Sol) lineage therefore had the **names and one-line descriptions of the operator's installed skills** (about 60,
+e.g. trading and video tools) listed in its context. No personal instruction file was loaded in Codex runs. The list was
+identical in every arm, so within-study comparisons are unaffected; it is an uncontrolled stimulus in all Codex runs.
+Fix: Codex eval runs now use an empty per-lineage HOME (verified: no operator paths in the rollout; context at the first
+turn fell from ~22.0k to ~16.5k tokens). Separately, in Claude-harness studies the X1 step (Codex reading the folder)
+ran on the operator's own Codex home; it now uses an isolated per-lineage Codex home.
