@@ -1,5 +1,8 @@
 # GovDrift
 
+> **Erratum (2026-09-25):** Claude Code eval runs were not isolated from the operator's personal global CLAUDE.md — see [ISOLATION_ERRATUM.md](ISOLATION_ERRATUM.md). Within-study comparisons are unaffected (present in every arm); Codex runs were unaffected.
+
+
 A pre-registered benchmark asking one question: **when an agent's context is compacted,
 does a small governance packet — an epistemic banner + a ledger of owner decisions
 (reason, status, provenance) — preserve the session's governing state (mission, rules
