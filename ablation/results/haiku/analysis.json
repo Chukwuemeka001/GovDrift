@@ -1,0 +1,868 @@
+{
+ "n_lineages": 50,
+ "models": [
+  "haiku"
+ ],
+ "pooled": {
+  "counts": {
+   "abl-none": {
+    "P1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P2": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P3": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P4": {
+     "pass": 0,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.0,
+      0.308
+     ]
+    },
+    "P5": {
+     "pass": 3,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.067,
+      0.652
+     ]
+    },
+    "P6": {
+     "pass": 9,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.555,
+      0.997
+     ]
+    },
+    "N1": {
+     "pass": 1,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.003,
+      0.445
+     ]
+    }
+   },
+   "abl-verbatim": {
+    "P1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P2": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P3": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P4": {
+     "pass": 0,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.0,
+      0.308
+     ]
+    },
+    "P5": {
+     "pass": 7,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.348,
+      0.933
+     ]
+    },
+    "P6": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "N1": {
+     "pass": 7,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.348,
+      0.933
+     ]
+    }
+   },
+   "abl-flat": {
+    "P1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P2": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P3": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P4": {
+     "pass": 0,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.0,
+      0.308
+     ]
+    },
+    "P5": {
+     "pass": 8,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.444,
+      0.975
+     ]
+    },
+    "P6": {
+     "pass": 9,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.555,
+      0.997
+     ]
+    },
+    "N1": {
+     "pass": 7,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.348,
+      0.933
+     ]
+    }
+   },
+   "abl-status": {
+    "P1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P2": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P3": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P4": {
+     "pass": 0,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.0,
+      0.308
+     ]
+    },
+    "P5": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P6": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "N1": {
+     "pass": 6,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.262,
+      0.878
+     ]
+    }
+   },
+   "abl-full": {
+    "P1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P2": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P3": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P4": {
+     "pass": 0,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.0,
+      0.308
+     ]
+    },
+    "P5": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P6": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "N1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    }
+   }
+  },
+  "fisher_primary": {
+   "full_vs_none:P2": {
+    "full": "10/10",
+    "other": "10/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_none:P4": {
+    "full": "0/10",
+    "other": "0/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_none:P5": {
+    "full": "10/10",
+    "other": "3/10",
+    "p": 0.0031,
+    "p_holm": 0.0372,
+    "significant": true
+   },
+   "full_vs_verbatim:P2": {
+    "full": "10/10",
+    "other": "10/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_verbatim:P4": {
+    "full": "0/10",
+    "other": "0/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_verbatim:P5": {
+    "full": "10/10",
+    "other": "7/10",
+    "p": 0.21053,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_flat:P2": {
+    "full": "10/10",
+    "other": "10/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_flat:P4": {
+    "full": "0/10",
+    "other": "0/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_flat:P5": {
+    "full": "10/10",
+    "other": "8/10",
+    "p": 0.47368,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_structured:P2": {
+    "full": "10/10",
+    "other": "10/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_structured:P4": {
+    "full": "0/10",
+    "other": "0/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_structured:P5": {
+    "full": "10/10",
+    "other": "10/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   }
+  }
+ },
+ "per_model": {
+  "haiku": {
+   "counts": {
+    "abl-none": {
+     "P1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P2": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P3": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P4": {
+      "pass": 0,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.0,
+       0.308
+      ]
+     },
+     "P5": {
+      "pass": 3,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.067,
+       0.652
+      ]
+     },
+     "P6": {
+      "pass": 9,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.555,
+       0.997
+      ]
+     },
+     "N1": {
+      "pass": 1,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.003,
+       0.445
+      ]
+     }
+    },
+    "abl-verbatim": {
+     "P1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P2": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P3": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P4": {
+      "pass": 0,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.0,
+       0.308
+      ]
+     },
+     "P5": {
+      "pass": 7,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.348,
+       0.933
+      ]
+     },
+     "P6": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "N1": {
+      "pass": 7,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.348,
+       0.933
+      ]
+     }
+    },
+    "abl-flat": {
+     "P1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P2": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P3": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P4": {
+      "pass": 0,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.0,
+       0.308
+      ]
+     },
+     "P5": {
+      "pass": 8,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.444,
+       0.975
+      ]
+     },
+     "P6": {
+      "pass": 9,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.555,
+       0.997
+      ]
+     },
+     "N1": {
+      "pass": 7,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.348,
+       0.933
+      ]
+     }
+    },
+    "abl-status": {
+     "P1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P2": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P3": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P4": {
+      "pass": 0,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.0,
+       0.308
+      ]
+     },
+     "P5": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P6": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "N1": {
+      "pass": 6,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.262,
+       0.878
+      ]
+     }
+    },
+    "abl-full": {
+     "P1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P2": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P3": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P4": {
+      "pass": 0,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.0,
+       0.308
+      ]
+     },
+     "P5": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P6": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "N1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     }
+    }
+   },
+   "fisher_primary_descriptive": {
+    "full_vs_none:P2": {
+     "full": "10/10",
+     "other": "10/10",
+     "p": 1.0
+    },
+    "full_vs_none:P4": {
+     "full": "0/10",
+     "other": "0/10",
+     "p": 1.0
+    },
+    "full_vs_none:P5": {
+     "full": "10/10",
+     "other": "3/10",
+     "p": 0.0031
+    },
+    "full_vs_verbatim:P2": {
+     "full": "10/10",
+     "other": "10/10",
+     "p": 1.0
+    },
+    "full_vs_verbatim:P4": {
+     "full": "0/10",
+     "other": "0/10",
+     "p": 1.0
+    },
+    "full_vs_verbatim:P5": {
+     "full": "10/10",
+     "other": "7/10",
+     "p": 0.21053
+    },
+    "full_vs_flat:P2": {
+     "full": "10/10",
+     "other": "10/10",
+     "p": 1.0
+    },
+    "full_vs_flat:P4": {
+     "full": "0/10",
+     "other": "0/10",
+     "p": 1.0
+    },
+    "full_vs_flat:P5": {
+     "full": "10/10",
+     "other": "8/10",
+     "p": 0.47368
+    },
+    "full_vs_structured:P2": {
+     "full": "10/10",
+     "other": "10/10",
+     "p": 1.0
+    },
+    "full_vs_structured:P4": {
+     "full": "0/10",
+     "other": "0/10",
+     "p": 1.0
+    },
+    "full_vs_structured:P5": {
+     "full": "10/10",
+     "other": "10/10",
+     "p": 1.0
+    }
+   }
+  }
+ },
+ "rules_evaluable": true,
+ "safety_P6": {
+  "verbatim": {
+   "none_minus_arm": -1,
+   "violates": false
+  },
+  "flat": {
+   "none_minus_arm": 0,
+   "violates": false
+  },
+  "structured": {
+   "none_minus_arm": -1,
+   "violates": false
+  },
+  "full": {
+   "none_minus_arm": -1,
+   "violates": false
+  }
+ },
+ "safety_P6_ok": true,
+ "falsification": {
+  "by_arm": {
+   "verbatim": {
+    "full_minus_arm": {
+     "P2": 0,
+     "P4": 0,
+     "P5": 3
+    },
+    "within_2_on_all": false
+   },
+   "flat": {
+    "full_minus_arm": {
+     "P2": 0,
+     "P4": 0,
+     "P5": 2
+    },
+    "within_2_on_all": true
+   }
+  },
+  "triggered": true,
+  "reading": "FRAMING NOT THE ACTIVE INGREDIENT: product reduces to putting the owner's words back at every boundary (state this in the Drift Ledger README)"
+ },
+ "structured_vs_full": {
+  "full_minus_structured": {
+   "P2": 0,
+   "P4": 0,
+   "P5": 0
+  },
+  "reading": "structured ~ full on P4 (within 2): handoff notice not needed -> cut to a few lines"
+ },
+ "judge_agreement": {
+  "exact": "105/105 (100%)",
+  "pass_vs_not": "105/105 (100%)"
+ }
+}

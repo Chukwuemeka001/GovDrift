@@ -24,3 +24,7 @@
   Haiku arm is re-run from scratch with stdin=/dev/null (launch_haiku_ablation.py). Sol lineages are unaffected (Codex
   is invoked with stdin closed; checked: no launcher text in any Sol user message). Other studies checked: Tier 2/2b/2c,
   Tier 2-fix, the pilot and the Opus v0.3 check contain no launcher text.
+- D6 (scoring, 2026-09-25): agent replies (especially Sol's) contained absolute file links that named the lineage and
+  therefore the arm; these path prefixes were stripped from bundles before judging (both models). Two Haiku lineages wrote
+  native-memory files to a wrong path beside their lineage folder (known small-model behavior); those folders were moved
+  aside before scoring and not otherwise used.
