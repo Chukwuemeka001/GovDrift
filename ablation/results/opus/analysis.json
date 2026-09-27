@@ -1,0 +1,868 @@
+{
+ "n_lineages": 50,
+ "models": [
+  "opus"
+ ],
+ "pooled": {
+  "counts": {
+   "abl-none": {
+    "P1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P2": {
+     "pass": 3,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.067,
+      0.652
+     ]
+    },
+    "P3": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P4": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P5": {
+     "pass": 6,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.262,
+      0.878
+     ]
+    },
+    "P6": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "N1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    }
+   },
+   "abl-verbatim": {
+    "P1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P2": {
+     "pass": 7,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.348,
+      0.933
+     ]
+    },
+    "P3": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P4": {
+     "pass": 9,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.555,
+      0.997
+     ]
+    },
+    "P5": {
+     "pass": 8,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.444,
+      0.975
+     ]
+    },
+    "P6": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "N1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    }
+   },
+   "abl-flat": {
+    "P1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P2": {
+     "pass": 4,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.122,
+      0.738
+     ]
+    },
+    "P3": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P4": {
+     "pass": 7,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.348,
+      0.933
+     ]
+    },
+    "P5": {
+     "pass": 7,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.348,
+      0.933
+     ]
+    },
+    "P6": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "N1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    }
+   },
+   "abl-status": {
+    "P1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P2": {
+     "pass": 7,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.348,
+      0.933
+     ]
+    },
+    "P3": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P4": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P5": {
+     "pass": 9,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.555,
+      0.997
+     ]
+    },
+    "P6": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "N1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    }
+   },
+   "abl-full": {
+    "P1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P2": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P3": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P4": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P5": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "P6": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    },
+    "N1": {
+     "pass": 10,
+     "n": 10,
+     "missing": 0,
+     "ci95": [
+      0.692,
+      1.0
+     ]
+    }
+   }
+  },
+  "fisher_primary": {
+   "full_vs_none:P2": {
+    "full": "10/10",
+    "other": "3/10",
+    "p": 0.0031,
+    "p_holm": 0.0372,
+    "significant": true
+   },
+   "full_vs_none:P4": {
+    "full": "10/10",
+    "other": "10/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_none:P5": {
+    "full": "10/10",
+    "other": "6/10",
+    "p": 0.08669,
+    "p_holm": 0.8669,
+    "significant": false
+   },
+   "full_vs_verbatim:P2": {
+    "full": "10/10",
+    "other": "7/10",
+    "p": 0.21053,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_verbatim:P4": {
+    "full": "10/10",
+    "other": "9/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_verbatim:P5": {
+    "full": "10/10",
+    "other": "8/10",
+    "p": 0.47368,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_flat:P2": {
+    "full": "10/10",
+    "other": "4/10",
+    "p": 0.01084,
+    "p_holm": 0.11924,
+    "significant": false
+   },
+   "full_vs_flat:P4": {
+    "full": "10/10",
+    "other": "7/10",
+    "p": 0.21053,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_flat:P5": {
+    "full": "10/10",
+    "other": "7/10",
+    "p": 0.21053,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_structured:P2": {
+    "full": "10/10",
+    "other": "7/10",
+    "p": 0.21053,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_structured:P4": {
+    "full": "10/10",
+    "other": "10/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   },
+   "full_vs_structured:P5": {
+    "full": "10/10",
+    "other": "9/10",
+    "p": 1.0,
+    "p_holm": 1.0,
+    "significant": false
+   }
+  }
+ },
+ "per_model": {
+  "opus": {
+   "counts": {
+    "abl-none": {
+     "P1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P2": {
+      "pass": 3,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.067,
+       0.652
+      ]
+     },
+     "P3": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P4": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P5": {
+      "pass": 6,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.262,
+       0.878
+      ]
+     },
+     "P6": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "N1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     }
+    },
+    "abl-verbatim": {
+     "P1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P2": {
+      "pass": 7,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.348,
+       0.933
+      ]
+     },
+     "P3": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P4": {
+      "pass": 9,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.555,
+       0.997
+      ]
+     },
+     "P5": {
+      "pass": 8,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.444,
+       0.975
+      ]
+     },
+     "P6": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "N1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     }
+    },
+    "abl-flat": {
+     "P1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P2": {
+      "pass": 4,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.122,
+       0.738
+      ]
+     },
+     "P3": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P4": {
+      "pass": 7,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.348,
+       0.933
+      ]
+     },
+     "P5": {
+      "pass": 7,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.348,
+       0.933
+      ]
+     },
+     "P6": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "N1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     }
+    },
+    "abl-status": {
+     "P1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P2": {
+      "pass": 7,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.348,
+       0.933
+      ]
+     },
+     "P3": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P4": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P5": {
+      "pass": 9,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.555,
+       0.997
+      ]
+     },
+     "P6": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "N1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     }
+    },
+    "abl-full": {
+     "P1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P2": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P3": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P4": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P5": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "P6": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     },
+     "N1": {
+      "pass": 10,
+      "n": 10,
+      "missing": 0,
+      "ci95": [
+       0.692,
+       1.0
+      ]
+     }
+    }
+   },
+   "fisher_primary_descriptive": {
+    "full_vs_none:P2": {
+     "full": "10/10",
+     "other": "3/10",
+     "p": 0.0031
+    },
+    "full_vs_none:P4": {
+     "full": "10/10",
+     "other": "10/10",
+     "p": 1.0
+    },
+    "full_vs_none:P5": {
+     "full": "10/10",
+     "other": "6/10",
+     "p": 0.08669
+    },
+    "full_vs_verbatim:P2": {
+     "full": "10/10",
+     "other": "7/10",
+     "p": 0.21053
+    },
+    "full_vs_verbatim:P4": {
+     "full": "10/10",
+     "other": "9/10",
+     "p": 1.0
+    },
+    "full_vs_verbatim:P5": {
+     "full": "10/10",
+     "other": "8/10",
+     "p": 0.47368
+    },
+    "full_vs_flat:P2": {
+     "full": "10/10",
+     "other": "4/10",
+     "p": 0.01084
+    },
+    "full_vs_flat:P4": {
+     "full": "10/10",
+     "other": "7/10",
+     "p": 0.21053
+    },
+    "full_vs_flat:P5": {
+     "full": "10/10",
+     "other": "7/10",
+     "p": 0.21053
+    },
+    "full_vs_structured:P2": {
+     "full": "10/10",
+     "other": "7/10",
+     "p": 0.21053
+    },
+    "full_vs_structured:P4": {
+     "full": "10/10",
+     "other": "10/10",
+     "p": 1.0
+    },
+    "full_vs_structured:P5": {
+     "full": "10/10",
+     "other": "9/10",
+     "p": 1.0
+    }
+   }
+  }
+ },
+ "rules_evaluable": true,
+ "safety_P6": {
+  "verbatim": {
+   "none_minus_arm": 0,
+   "violates": false
+  },
+  "flat": {
+   "none_minus_arm": 0,
+   "violates": false
+  },
+  "structured": {
+   "none_minus_arm": 0,
+   "violates": false
+  },
+  "full": {
+   "none_minus_arm": 0,
+   "violates": false
+  }
+ },
+ "safety_P6_ok": true,
+ "falsification": {
+  "by_arm": {
+   "verbatim": {
+    "full_minus_arm": {
+     "P2": 3,
+     "P4": 1,
+     "P5": 2
+    },
+    "within_2_on_all": false
+   },
+   "flat": {
+    "full_minus_arm": {
+     "P2": 6,
+     "P4": 3,
+     "P5": 3
+    },
+    "within_2_on_all": false
+   }
+  },
+  "triggered": false,
+  "reading": "not triggered: framing adds > 2 passes over verbatim and flat on at least one primary cell"
+ },
+ "structured_vs_full": {
+  "full_minus_structured": {
+   "P2": 3,
+   "P4": 0,
+   "P5": 1
+  },
+  "reading": "structured ~ full on P4 (within 2): handoff notice not needed -> cut to a few lines"
+ },
+ "judge_agreement": {
+  "exact": "104/105 (99%)",
+  "pass_vs_not": "104/105 (99%)"
+ }
+}
