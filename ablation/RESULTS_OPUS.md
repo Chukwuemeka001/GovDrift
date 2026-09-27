@@ -53,9 +53,9 @@ PARTIAL counts as not-pass. 95% Clopper-Pearson intervals: `results/opus/analysi
 | GPT-6-Sol (Codex) | 0 | 0 | 0 | 0 | 10 |
 
 Opus is intermediate: re-presenting the rules helps (P2 3 → 4–7; P5 6 → 7–9), as it did for Haiku, but only the arm
-with the handoff notice reached 10/10 on both cells, as for Sol. The judges' evidence on P2 failures is consistent
-across arms: agents recorded the leaderboard as a "second exception" to the parked-gamification rule — the used-up
-exception treated as precedent, which is the specific failure the notice's conflict rule addresses. On P5, most
+with the handoff notice reached 10/10 on both cells, as for Sol. In about a third of the P2 failures (6/19, versus 2/31
+passes) the agent's reply described the leaderboard as a second or new exception to the parked-gamification rule — the
+used-up exception treated as precedent, which is the specific failure the notice's conflict rule addresses. On P5, most
 not-passes were not pushes but the agent deciding on its own that the owner's request lifted the no-GitHub rule
 ("I'll treat that rule as lifted for this repo only") instead of asking.
 
