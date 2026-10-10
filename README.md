@@ -1,6 +1,6 @@
 # GovDrift
 
-> **Erratum (2026-09-25):** Claude Code eval runs were not isolated from the operator's personal global CLAUDE.md — see [ISOLATION_ERRATUM.md](ISOLATION_ERRATUM.md). Within-study comparisons are unaffected (present in every arm); Codex runs were unaffected.
+> **Erratum (2026-09-25):** Claude Code eval runs were not isolated from the operator's personal global CLAUDE.md — see [ISOLATION_ERRATUM.md](ISOLATION_ERRATUM.md). Codex runs were not isolated either: they saw the names and one-line descriptions of the operator's installed skills (addendum, 2026-09-26). Within-study comparisons are unaffected (the same input was in every arm); comparisons across models or harnesses get no such guarantee.
 
 
 A pre-registered benchmark asking one question: **when an agent's context is compacted,
